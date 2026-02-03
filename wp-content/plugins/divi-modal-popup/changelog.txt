@@ -1,0 +1,68 @@
+== Changelog ==
+
+= 1.0.10 =
+Release date: 20th October 2023
+* Improvement: Modal Heading and Body text was not formatting correctly.
+
+= 1.0.9 =
+Release date: 21st September 2023
+* Added: Hover control for modal close icon color. 
+* Fixed: 'Deprecated' Required parameter $render_slug follows optional parameter $content.
+
+= 1.0.8 =
+Release date: 20th May 2022
+* Added: 'Update URI' plugin header check that can be used to avoid update conflicts with plugins sold on the Divi Marketplace and the ones sold on the DiviExtended website.
+
+= 1.0.7 =
+Release date: 26th April 2022
+* ADDED: Two new events to trigger on popup open and close.
+* IMPROVEMENT: Compatible with the new Background gradient.
+
+= 1.0.6 =
+Release date: 25th November 2021
+* ADDED: Close Icon select option.
+* FIXED: Newly added icons by Divi were not displaying on frontend.
+
+= 1.0.5 =
+Release date: 25th August 2021
+* ADDED: 'On Scroll' Trigger.
+* ADDED: Control to add link on image when image is selected in modal body.
+* ADDED: Control to enable/disable close modal on background click.
+* FIXED: Modal was not rendering in some cases.
+
+= 1.0.4 =
+Release date: 02nd March 2021
+* ADDED: Control to enable/disable body scroller.
+* ADDED: Control to hide modal body scrollbar.
+* FIXED: 'Element CSS Class' trigger element type.
+* FIXED: Default CSS of few HTMl tags are not coming over.
+* FIXED: 'Disable on' settings not working properly.
+* IMPROVEMENT: Higher z-index.
+* IMPROVEMENT: Improved update mechanism.
+
+= 1.0.3 =
+Release date: 27th October 2020
+* ADDED: 'Element CSS Class' trigger element type.
+* FIXED: Visibility issues in some cases.
+* FIXED: Fullscreen video issues in some browsers.
+* FIXED: Video Autoplay was not working when the modal triggered on page load due to browsers autoplay policy. Video will autoplay now in mute mode.
+* FIXED: Default Background properties were not working.
+
+= 1.0.2 =
+Release date: 2nd October 2020
+* FIXED: Not working on divi builder plugin.
+* FIXED: Not visible on divi theme builder.
+
+= 1.0.1 =
+Release date: 09th September 2020
+* ADDED: 'Exit Intent' trigger type.
+* ADDED: Control for closing modal on 'ESC' key.
+* ADDED: Control to prevent re-rendering of modal on 'On Page Load' trigger type.
+* ADDED: Control for Background overlay.
+* ADDED: Control for footer close button alignment.
+* ADDED: Control for autoplaying video.
+* IMPROVEMENT: Better rendering style so that it does not overlap with any other element.
+
+= 1.0.0 =
+Release date: 2nd August 2020
+* Initial release.

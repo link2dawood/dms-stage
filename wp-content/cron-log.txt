@@ -1,0 +1,2609 @@
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2827206
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 43228
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 43228
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2387365
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 193379
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 211793
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 210498
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 210498
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2508
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2267
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 45349
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 45309
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 45419
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 64517
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 78634
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 209305
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 52464
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 52444
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 52356
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 222787
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 3157122
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2992194
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2750459
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2752936
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2994454
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2703228
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2903949
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2119927
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2016965
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2700822
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1737486
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2795483
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2755966
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2689328
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1666239
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1666239
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1947345
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1947345
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1933243
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1933243
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 540 were imported on 2025-09-27 02:55:36 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 540 were imported on 2025-09-27 03:04:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Plugin - Test Email
+CSVIPL: Message: This is a test email from the CSV Import Plugin. If you receive this, email notifications are workin...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Plugin - Test Email
+CSVIPL: Message: This is a test email from the CSV Import Plugin. If you receive this, email notifications are workin...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 529 were imported on 2025-09-28 02:54:33 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 515 were imported on 2025-09-29 10:21:41 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 514 were imported on 2025-09-29 02:50:37 P...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1922813
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1922813
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1922813
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1922813
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2069886
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2069886
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 2069886
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1922813
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL executed successfully, data length: 1922813
+File saved successfully to /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 170 were imported on 2025-10-02 02:04:03 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-10-02 02:14:17 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-10-02 02:14:34 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-02 02:14:54 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 146 were imported on 2025-10-02 02:20:45 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-10-03 07:33:30 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-03 07:34:09 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 159 were imported on 2025-10-03 07:34:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 168 were imported on 2025-10-03 07:34:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-10-06 12:30:32 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2025-10-06 12:31:08 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-10-06 12:31:33 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 161 were imported on 2025-10-06 12:31:52 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 162 were imported on 2025-10-06 12:32:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-10-07 06:17:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2025-10-07 06:17:39 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-10-07 06:17:55 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 161 were imported on 2025-10-07 06:18:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 161 were imported on 2025-10-07 06:18:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 122 were imported on 2025-10-07 06:20:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 9 were imported on 2025-10-07 04:34:15 PM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 5 were imported on 2025-10-07 04:40:41 PM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 3 were imported on 2025-10-07 06:21:26 PM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 5 were imported on 2025-10-08 08:42:03 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 125 were imported on 2025-10-08 08:52:10 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 86 were imported on 2025-10-08 09:40:08 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2025-10-08 09:42:09 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-10-08 09:42:35 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 170 were imported on 2025-10-08 09:43:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 125 were imported on 2025-10-08 09:43:28 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-10-09 03:57:26 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 87 were imported on 2025-10-09 03:57:48 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-09 03:58:09 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 170 were imported on 2025-10-09 03:58:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2025-10-09 03:58:53 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-10-10 06:20:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 87 were imported on 2025-10-10 06:21:13 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-10 06:21:30 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 170 were imported on 2025-10-10 06:21:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2025-10-10 06:22:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2025-10-11 04:17:59 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 86 were imported on 2025-10-11 04:18:21 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-11 04:18:44 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 171 were imported on 2025-10-11 04:19:03 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-11 04:20:28 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2025-10-11 06:38:48 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 86 were imported on 2025-10-11 06:39:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-11 06:39:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-11 06:39:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 171 were imported on 2025-10-11 06:40:08 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 122 were imported on 2025-10-13 06:49:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 84 were imported on 2025-10-13 06:49:55 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-13 06:50:13 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 158 were imported on 2025-10-13 06:50:32 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-10-13 06:50:52 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 122 were imported on 2025-10-14 07:26:09 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 84 were imported on 2025-10-14 07:26:24 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-14 07:26:38 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 157 were imported on 2025-10-14 07:26:48 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-10-14 07:27:02 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 122 were imported on 2025-10-15 07:51:36 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 84 were imported on 2025-10-15 07:51:47 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-10-15 07:52:01 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 157 were imported on 2025-10-15 07:52:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-10-15 07:52:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 127 were imported on 2025-10-16 06:46:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 86 were imported on 2025-10-16 06:47:02 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-16 06:47:16 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 155 were imported on 2025-10-16 06:47:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-10-16 06:47:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 121 were imported on 2025-10-21 02:06:50 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 82 were imported on 2025-10-21 02:07:06 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-21 02:07:20 PM...
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-21 02:09:21 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 165 were imported on 2025-10-21 02:09:50 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-21 02:10:19 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-21 02:11:31 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2025-10-22 06:45:29 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 82 were imported on 2025-10-22 06:45:44 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-22 06:45:58 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 160 were imported on 2025-10-22 06:46:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-22 06:46:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2025-10-23 05:04:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 80 were imported on 2025-10-23 05:04:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-23 05:07:02 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 162 were imported on 2025-10-23 05:07:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-23 05:07:40 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2025-10-24 07:04:02 A...
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2025-10-24 07:04:58 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 78 were imported on 2025-10-24 07:05:10 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-24 07:05:21 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 160 were imported on 2025-10-24 07:05:35 A...
+CSVIPL: Email sent successfully
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-24 07:05:48 A...
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-10-24 07:06:54 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2025-10-24 07:07:28 A...
+CSVIPL: Email sent successfully
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 113 were imported on 2025-10-25 08:47:37 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 77 were imported on 2025-10-25 08:47:53 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-25 08:48:09 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 155 were imported on 2025-10-25 08:48:27 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 152 were imported on 2025-10-25 08:48:46 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2025-10-27 10:56:18 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 73 were imported on 2025-10-27 10:56:43 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-27 10:57:04 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 140 were imported on 2025-10-27 10:57:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 153 were imported on 2025-10-27 10:57:43 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2025-10-28 06:20:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 73 were imported on 2025-10-28 06:21:05 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-28 06:21:18 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 137 were imported on 2025-10-28 06:21:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 150 were imported on 2025-10-28 06:21:45 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-10-29 06:23:10 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 75 were imported on 2025-10-29 06:23:28 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-29 06:23:41 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 143 were imported on 2025-10-29 06:23:56 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 171 were imported on 2025-10-29 06:24:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2025-10-30 06:23:55 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 75 were imported on 2025-10-30 06:24:08 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-30 06:24:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 141 were imported on 2025-10-30 06:24:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 172 were imported on 2025-10-30 06:24:53 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 109 were imported on 2025-10-31 07:29:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 77 were imported on 2025-10-31 07:29:27 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-10-31 07:29:42 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 136 were imported on 2025-10-31 07:29:53 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 241 were imported on 2025-10-31 07:30:09 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 168 were imported on 2025-10-31 07:34:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 168 were imported on 2025-11-03 06:28:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 156 were imported on 2025-11-03 06:28:58 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-11-03 06:29:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 74 were imported on 2025-11-03 06:29:27 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-03 06:29:41 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2025-11-03 06:29:55 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-11-04 07:29:43 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 74 were imported on 2025-11-04 07:30:04 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-04 07:30:18 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2025-11-04 07:30:38 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 152 were imported on 2025-11-04 07:31:01 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-11-05 05:38:23 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-11-05 05:38:53 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-11-05 05:39:17 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-05 05:39:35 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 151 were imported on 2025-11-05 05:40:10 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 122 were imported on 2025-11-05 05:45:29 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2025-11-06 06:40:47 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-11-06 06:40:59 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-06 06:41:13 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 122 were imported on 2025-11-06 06:41:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 149 were imported on 2025-11-06 06:42:06 A...
+CSVIPL: Email sent successfully
+CSVIPL: Starting csvipl_fetch_csv()
+CSVIPL: cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2025-11-07 06:23:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2025-11-07 06:23:35 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-07 06:23:53 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-11-07 06:24:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 166 were imported on 2025-11-07 06:24:27 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 121 were imported on 2025-11-08 08:36:08 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-11-08 08:36:30 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-08 08:36:45 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2025-11-08 08:37:01 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 165 were imported on 2025-11-08 08:37:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 121 were imported on 2025-11-09 07:22:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-11-09 07:22:13 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-09 07:22:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2025-11-09 07:22:33 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2025-11-09 07:24:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2025-11-09 07:24:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-09 07:24:40 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-11-09 07:24:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2025-11-10 06:44:16 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-11-10 06:44:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-10 06:45:20 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2025-11-10 06:45:40 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 168 were imported on 2025-11-10 06:46:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2025-11-11 10:20:03 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-11-11 10:20:14 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-11 10:20:28 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 99 were imported on 2025-11-11 10:20:44 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 162 were imported on 2025-11-11 10:20:58 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-11-12 05:51:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-11-12 05:51:38 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-12 05:53:08 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-11-12 05:53:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 162 were imported on 2025-11-12 05:54:03 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 119 were imported on 2025-11-13 07:08:41 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-11-13 07:08:52 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-13 07:09:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-11-13 07:09:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 162 were imported on 2025-11-13 07:09:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 117 were imported on 2025-11-13 07:12:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-11-13 07:12:23 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-13 07:12:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2025-11-13 07:13:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 166 were imported on 2025-11-13 07:13:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2025-11-14 04:31:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-11-14 04:31:59 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 20 were imported on 2025-11-14 04:32:14 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 107 were imported on 2025-11-14 04:32:27 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 163 were imported on 2025-11-14 04:32:38 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2025-11-15 12:14:08 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2025-11-15 12:14:21 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 19 were imported on 2025-11-15 12:14:36 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 98 were imported on 2025-11-15 12:14:54 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 169 were imported on 2025-11-15 12:15:18 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2025-11-16 06:26:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2025-11-16 06:26:34 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 19 were imported on 2025-11-16 06:26:52 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2025-11-16 06:27:05 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 164 were imported on 2025-11-16 06:27:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 114 were imported on 2025-11-17 04:12:50 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-11-17 04:13:07 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-17 04:13:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-11-17 04:13:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 164 were imported on 2025-11-17 04:14:15 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 114 were imported on 2025-11-18 07:58:59 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-11-18 07:59:10 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 18 were imported on 2025-11-18 07:59:21 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2025-11-18 07:59:34 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 165 were imported on 2025-11-18 07:59:50 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 113 were imported on 2025-11-19 06:23:35 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 88 were imported on 2025-11-19 06:23:46 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-11-19 06:23:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2025-11-19 06:24:18 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 198 were imported on 2025-11-19 06:24:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 166 were imported on 2025-11-20 06:50:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 86 were imported on 2025-11-20 06:50:59 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 86 were imported on 2025-11-20 06:51:54 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-11-20 06:52:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2025-11-20 06:52:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-11-20 06:52:39 AM...
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-11-20 06:53:12 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 110 were imported on 2025-11-21 06:25:25 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 83 were imported on 2025-11-21 06:25:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-11-21 06:25:47 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 98 were imported on 2025-11-21 06:25:58 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 163 were imported on 2025-11-21 06:30:45 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 110 were imported on 2025-11-24 06:36:21 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 83 were imported on 2025-11-24 06:36:39 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-11-24 06:36:52 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 98 were imported on 2025-11-24 06:37:03 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 163 were imported on 2025-11-24 06:37:15 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-11-24 06:39:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-11-24 06:39:26 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-11-24 06:39:35 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-11-24 06:39:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 182 were imported on 2025-11-24 06:40:08 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-11-25 06:52:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-11-25 06:52:49 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-11-25 06:55:18 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2025-11-25 06:55:34 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 182 were imported on 2025-11-25 06:55:48 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2025-11-26 07:35:54 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 82 were imported on 2025-11-26 07:36:08 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-11-26 07:36:23 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 109 were imported on 2025-11-26 07:38:18 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 184 were imported on 2025-11-26 07:38:35 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-11-27 07:05:35 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-11-27 07:05:47 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-11-27 07:05:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2025-11-27 07:06:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 185 were imported on 2025-11-27 07:06:23 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-11-28 06:41:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-11-28 06:42:33 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-11-28 06:42:49 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2025-11-28 06:43:01 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 188 were imported on 2025-11-28 06:43:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 183 were imported on 2025-11-29 01:00:33 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2025-11-29 01:00:46 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-11-29 01:00:59 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2025-11-29 01:01:17 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 78 were imported on 2025-11-29 01:01:32 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-12-01 07:15:47 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 76 were imported on 2025-12-01 07:16:02 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2025-12-01 07:16:13 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2025-12-01 07:16:25 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 179 were imported on 2025-12-01 07:16:36 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-12-02 07:15:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 76 were imported on 2025-12-02 07:15:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2025-12-02 07:15:51 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-12-02 07:16:07 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 176 were imported on 2025-12-02 07:28:28 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-12-03 07:08:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 75 were imported on 2025-12-03 07:08:26 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-03 07:08:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 100 were imported on 2025-12-03 07:08:48 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 176 were imported on 2025-12-03 07:09:03 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 107 were imported on 2025-12-04 07:12:07 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 83 were imported on 2025-12-04 07:12:19 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-04 07:14:14 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-12-04 07:14:29 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 177 were imported on 2025-12-04 07:14:43 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-12-05 07:11:35 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 83 were imported on 2025-12-05 07:11:59 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-05 07:12:19 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 107 were imported on 2025-12-05 07:12:32 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 175 were imported on 2025-12-05 07:12:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 105 were imported on 2025-12-06 07:05:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 83 were imported on 2025-12-06 07:06:01 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-06 07:06:33 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-12-06 07:06:57 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 163 were imported on 2025-12-06 07:07:41 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-12-07 07:05:02 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-12-07 07:05:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-07 07:05:45 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-12-07 07:06:25 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 161 were imported on 2025-12-07 07:06:57 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 161 were imported on 2025-12-08 07:26:11 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-12-08 07:26:25 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 81 were imported on 2025-12-08 07:26:41 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-08 07:27:04 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-12-08 07:29:27 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-12-09 06:25:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 78 were imported on 2025-12-09 06:25:37 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-09 06:25:51 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2025-12-09 06:26:15 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 160 were imported on 2025-12-09 06:29:18 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-12-10 07:01:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 77 were imported on 2025-12-10 07:01:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-12-10 07:02:09 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2025-12-10 07:02:25 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 160 were imported on 2025-12-10 07:02:43 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-12-11 06:55:07 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 77 were imported on 2025-12-11 06:55:25 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-12-11 06:55:41 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2025-12-11 06:55:56 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 160 were imported on 2025-12-11 06:56:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 107 were imported on 2025-12-11 06:58:18 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 76 were imported on 2025-12-11 06:58:34 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-12-11 06:58:45 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 110 were imported on 2025-12-11 06:59:28 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 158 were imported on 2025-12-11 07:06:07 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-12-12 07:05:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 87 were imported on 2025-12-12 07:06:42 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-12-12 07:07:03 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-12-12 07:07:33 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 162 were imported on 2025-12-12 07:08:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2025-12-15 07:05:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 90 were imported on 2025-12-15 07:05:55 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-15 07:06:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2025-12-15 07:06:17 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 163 were imported on 2025-12-15 07:06:36 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2025-12-16 06:57:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 90 were imported on 2025-12-16 06:57:42 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-16 06:57:53 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2025-12-16 06:58:03 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 164 were imported on 2025-12-16 06:58:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 110 were imported on 2025-12-17 06:51:42 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2025-12-17 06:51:51 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-17 06:52:00 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2025-12-17 06:52:14 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 163 were imported on 2025-12-17 06:52:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-12-18 07:24:16 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2025-12-18 07:24:32 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-12-18 07:24:45 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 100 were imported on 2025-12-18 07:25:00 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 161 were imported on 2025-12-18 07:25:16 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2025-12-19 07:28:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2025-12-19 07:29:01 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 17 were imported on 2025-12-19 07:29:17 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 99 were imported on 2025-12-19 07:29:33 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 175 were imported on 2025-12-19 07:30:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2025-12-22 07:09:54 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2025-12-22 07:10:08 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2025-12-22 07:10:22 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 100 were imported on 2025-12-22 07:10:36 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 167 were imported on 2025-12-22 07:10:55 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2025-12-23 07:41:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2025-12-23 07:41:58 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2025-12-23 07:42:09 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 105 were imported on 2025-12-23 07:42:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 164 were imported on 2025-12-23 07:42:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 114 were imported on 2025-12-25 04:53:19 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 90 were imported on 2025-12-25 04:53:32 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 14 were imported on 2025-12-25 04:53:40 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2025-12-25 04:53:54 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 168 were imported on 2025-12-25 04:54:13 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 114 were imported on 2025-12-26 07:22:08 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 90 were imported on 2025-12-26 07:22:39 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 14 were imported on 2025-12-26 07:22:48 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2025-12-26 07:23:02 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 113 were imported on 2025-12-28 08:17:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2025-12-28 08:17:38 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 13 were imported on 2025-12-28 08:18:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2025-12-28 08:18:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 159 were imported on 2025-12-28 08:18:40 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2025-12-29 08:04:13 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 87 were imported on 2025-12-29 08:04:27 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 13 were imported on 2025-12-29 08:04:43 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2025-12-29 08:05:02 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 159 were imported on 2025-12-29 08:05:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2025-12-30 07:50:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 87 were imported on 2025-12-30 07:50:52 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 13 were imported on 2025-12-30 07:51:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2025-12-30 07:51:43 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 154 were imported on 2025-12-30 07:52:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2025-12-30 04:44:32 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2025-12-30 04:47:29 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2025-12-30 04:51:27 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2025-12-30 04:51:36 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2025-12-30 04:51:46 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 196 were imported on 2025-12-30 04:51:57 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2026-01-02 12:44:22 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 89 were imported on 2026-01-02 12:44:37 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2026-01-02 12:44:48 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-01-02 12:45:04 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 142 were imported on 2026-01-02 12:46:38 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 110 were imported on 2026-01-03 01:58:48 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 96 were imported on 2026-01-03 01:59:07 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 12 were imported on 2026-01-03 01:59:24 PM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 109 were imported on 2026-01-03 01:59:58 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 124 were imported on 2026-01-03 02:01:30 P...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2026-01-05 08:11:38 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2026-01-05 08:11:53 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 11 were imported on 2026-01-05 08:12:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2026-01-05 08:12:17 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2026-01-05 08:12:35 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2026-01-06 08:03:22 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2026-01-06 08:03:41 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 11 were imported on 2026-01-06 08:03:58 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2026-01-06 08:04:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2026-01-06 08:04:39 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 138 were imported on 2026-01-07 08:05:39 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 95 were imported on 2026-01-07 08:05:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2026-01-07 08:06:11 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2026-01-07 08:06:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 125 were imported on 2026-01-07 08:06:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 138 were imported on 2026-01-08 08:10:30 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 15 were imported on 2026-01-08 08:10:59 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 104 were imported on 2026-01-08 08:11:10 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 135 were imported on 2026-01-08 08:11:29 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 136 were imported on 2026-01-09 07:49:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2026-01-09 07:49:57 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Starting csvipl_fetch_csv()
+CSVIPL: cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 16 were imported on 2026-01-09 07:50:16 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 99 were imported on 2026-01-09 07:50:26 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 145 were imported on 2026-01-09 07:50:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 135 were imported on 2026-01-12 08:04:40 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-01-12 08:06:14 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 13 were imported on 2026-01-12 08:06:39 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2026-01-12 08:06:59 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 166 were imported on 2026-01-12 08:07:19 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 135 were imported on 2026-01-13 07:07:25 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-01-13 07:07:44 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 13 were imported on 2026-01-13 07:07:54 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 98 were imported on 2026-01-13 07:08:04 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 164 were imported on 2026-01-13 07:08:16 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 135 were imported on 2026-01-14 08:05:24 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-01-14 08:05:42 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 12 were imported on 2026-01-14 08:05:53 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 107 were imported on 2026-01-14 08:06:23 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 156 were imported on 2026-01-14 08:07:19 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 133 were imported on 2026-01-15 08:04:59 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-01-15 08:05:14 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 11 were imported on 2026-01-15 08:05:31 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 105 were imported on 2026-01-15 08:05:47 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 154 were imported on 2026-01-15 08:06:05 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 133 were imported on 2026-01-16 08:21:02 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 133 were imported on 2026-01-16 08:21:50 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-01-16 08:22:47 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-16 08:22:55 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2026-01-16 08:23:06 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 151 were imported on 2026-01-16 08:23:12 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 126 were imported on 2026-01-19 08:40:02 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2026-01-19 08:40:16 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-19 08:40:28 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 93 were imported on 2026-01-19 08:40:43 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 144 were imported on 2026-01-19 08:41:01 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 126 were imported on 2026-01-20 08:02:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2026-01-20 08:04:38 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-20 08:04:52 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 92 were imported on 2026-01-20 08:05:05 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 142 were imported on 2026-01-20 08:05:15 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 125 were imported on 2026-01-21 08:42:07 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-01-21 08:42:21 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-21 08:42:35 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 100 were imported on 2026-01-21 08:42:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 144 were imported on 2026-01-21 08:43:01 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2026-01-22 06:54:26 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-01-22 06:54:39 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-22 06:54:48 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2026-01-22 06:55:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 141 were imported on 2026-01-22 06:55:17 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 129 were imported on 2026-01-23 08:31:49 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 129 were imported on 2026-01-23 08:35:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2026-01-23 08:35:38 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-23 08:35:51 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 101 were imported on 2026-01-23 08:36:10 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 142 were imported on 2026-01-23 08:36:34 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Starting csvipl_fetch_csv()
+CSVIPL: cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 127 were imported on 2026-01-26 08:02:08 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2026-01-26 08:02:18 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-26 08:02:29 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 109 were imported on 2026-01-26 08:02:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 151 were imported on 2026-01-26 08:03:37 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 127 were imported on 2026-01-27 08:03:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2026-01-27 08:04:05 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-27 08:04:19 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2026-01-27 08:04:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 152 were imported on 2026-01-27 08:05:05 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 124 were imported on 2026-01-28 08:07:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2026-01-28 08:08:51 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-28 08:09:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 115 were imported on 2026-01-28 08:09:26 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 124 were imported on 2026-01-29 08:07:50 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 97 were imported on 2026-01-29 08:08:12 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-29 08:08:31 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2026-01-29 08:08:54 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 144 were imported on 2026-01-29 08:09:15 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2026-01-30 07:19:32 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 96 were imported on 2026-01-30 07:19:42 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-01-30 07:19:52 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2026-01-30 07:20:04 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 146 were imported on 2026-01-30 07:20:17 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 123 were imported on 2026-02-01 04:59:31 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 96 were imported on 2026-02-01 05:01:58 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 10 were imported on 2026-02-01 05:02:12 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 118 were imported on 2026-02-01 05:03:09 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 146 were imported on 2026-02-01 05:03:37 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 120 were imported on 2026-02-01 05:05:12 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 94 were imported on 2026-02-01 05:05:21 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-01 05:05:32 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 109 were imported on 2026-02-01 05:05:42 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 140 were imported on 2026-02-01 05:06:02 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2026-02-02 06:58:18 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 90 were imported on 2026-02-02 06:58:27 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-02 06:58:38 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 102 were imported on 2026-02-02 06:58:51 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 141 were imported on 2026-02-02 06:59:34 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2026-02-03 07:08:32 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-02-03 07:11:18 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-03 07:11:32 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 103 were imported on 2026-02-03 07:11:44 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 140 were imported on 2026-02-03 07:11:57 A...
+CSVIPL: Email sent successfully

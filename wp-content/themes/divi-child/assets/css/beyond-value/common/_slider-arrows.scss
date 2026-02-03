@@ -1,0 +1,46 @@
+$arrowBackground : #00000070 ;
+.listing-main-image-slider {
+    overflow: hidden;
+    .slick-arrow {
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        background-color: $arrowBackground;
+        border-radius: 50px;
+        transition: all $transitionSpeed;
+        &:hover {
+            background-color: $arrowBackground ;
+        }
+
+        i {
+            font-size: 22px;
+            width: 40px;
+            height: 40px;
+            color: $white;
+            background-color: $arrowBackground;
+            display: flex !important;
+        }
+    }
+
+    .slick-next {
+        right: -60px;
+        z-index: 9;
+    }
+
+    .slick-prev {
+        left: -60px;
+        z-index: 9;
+    }
+    &:hover .slick-prev{
+        left: 30px ;
+        @include tablet {
+            left: 50px;
+        }
+    }
+    &:hover .slick-next {
+        right: 30px;
+        @include tablet {
+            right: 50px;
+        }
+    }
+}

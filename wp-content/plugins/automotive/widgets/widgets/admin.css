@@ -1,0 +1,43 @@
+.widget-help-description {
+  color: #ACACAC;
+  margin-top: 0;
+}
+
+.widget-select-image-container .widget-remove-image {
+  display: none;
+}
+
+.widget-select-image-container.has-image .widget-remove-image {
+  display: inline-block;
+}
+
+.widget-select-image-container img {
+  max-width: 100%;
+}
+
+#wp-link .submitbox {
+	height: auto
+}
+
+h4.repeat-title {
+  margin-bottom: 5px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.single-repeater-row {
+  margin-bottom: 15px;
+}
+
+
+.widget-content .widget-repeater-container .widget-add-repeater-field, .input-row {
+  margin-bottom: 10px;
+}
+
+.widget-content label, .so-content .input-row label {
+  display: block;
+}
+
+.widget-content .input-row:first-of-type {
+  margin-top: 15px;
+}

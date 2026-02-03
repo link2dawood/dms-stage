@@ -1,0 +1,668 @@
+.top-header {
+    background-color: $topHeader;
+    border-bottom: 1px solid #4477B8;
+    @include lg {
+        border-bottom: unset;
+    }
+}
+
+.header-sale-service-hours-text,
+#menu-menu-header-top {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    @include md {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+}
+
+header nav ul li a {
+    letter-spacing: 1px;
+}
+
+// Menu Header Top
+#menu-menu-header-top {
+    li {
+        display: inline-block;
+
+        &:not(:last-child) {
+            padding-right: 30px;
+        }
+
+        a {
+            padding-bottom: 0;
+            color: #9DBDE6;
+            font-size: $fontSM;
+            font-family: $segoeFont;
+            font-weight: 300;
+        }
+
+        &:first-child {
+            white-space: nowrap;
+
+            a {
+                background-color: #9dbde6;
+                padding: 5px 13px;
+                border-radius: 15px;
+                color: black;
+                font-weight: bold;
+                text-transform: capitalize;
+            }
+        }
+
+        &:last-child {
+            a {
+                color: #E6DD26;
+            }
+        }
+    }
+}
+
+header {
+    .logo-wrapper {
+        height: 75px;
+    }
+}
+
+// Primary menu
+.menu-menu-01 {
+    li .sub-menu {
+        display: none;
+        position: absolute;
+        background-color: white;
+        min-width: 200px;
+        width: 230px;
+        top: 100%;
+        z-index: 1;
+        border-radius: 0 0 20px 20px;
+        border: 1px solid $Grey2;
+        border-top: 10px solid #cf2129;
+
+        li {
+            padding: 14px 18px;
+            position: relative;
+            width: 100%;
+
+            a {
+                padding: 0;
+                color: $primaryColor;
+                font-size: $fontMD;
+                font-family: $helveticaFont;
+                font-weight: bold;
+                width: 100%;
+                display: inline-block;
+                position: relative;
+
+                &:hover {
+                    color: #CF2129;
+                }
+            }
+
+            &:not(:last-child) {
+                border-bottom: 1px solid $Grey2;
+            }
+
+            &:hover>a::after {
+                transform: translateY(-50%) rotate(-90deg);
+            }
+        }
+
+        &:not(.menu-item-has-children > .sub-menu .sub-menu):before {
+            content: "";
+            position: absolute;
+            top: -30px;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+            border-bottom: 20px solid #CF2129;
+            left: 20px;
+            width: 20px;
+            height: 20px;
+        }
+
+        .menu-item-has-children:hover>.sub-menu {
+            display: block;
+            position: absolute;
+            right: -100%;
+            top: 0;
+        }
+    }
+
+    li {
+        position: relative;
+
+        &:hover>.sub-menu {
+            display: block;
+        }
+
+        &:hover>a {
+            position: relative;
+        }
+    }
+
+    >li:not(:last-child) {
+        margin-right: 40px;
+    }
+
+    li.menu-item-has-children>a {
+        &::after {
+            font-family: ETmodules;
+            content: "3";
+            font-size: 1rem;
+            position: absolute;
+            right: -1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            font-weight: 800;
+            transition: all .3s;
+        }
+    }
+
+    li.menu-item-has-children .sub-menu li.menu-item-has-children a::after {
+        right: 0;
+    }
+
+    >li>a {
+        color: white;
+        font-family: $helveticaFont;
+        font-weight: 600;
+        line-height: 24px;
+        font-size: $fontSM;
+        position: relative;
+        /* Ensure proper stacking context */
+
+        &:hover+.sub-menu {
+            display: block;
+        }
+    }
+
+    &>li {
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+        &:hover>a::before {
+            content: "";
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            height: 3px;
+            width: calc(100% + 1rem);
+            background-color: #E6DD26;
+        }
+    }
+}
+
+// Search Form
+header .main-header-wrapper {
+    form.searchform {
+        position: relative;
+
+        &::before {
+            content: "\f002";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            font-size: 1.1rem;
+            color: white;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            right: 10px;
+            pointer-events: none;
+        }
+
+        input[type="submit"] {
+            display: none;
+        }
+
+        input[type="text"] {
+            height: 42px;
+            border: 2px solid white;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 5px;
+            background-color: transparent;
+            text-overflow: ellipsis;
+            width: 40px;
+            @include xl {
+                width: 125px;
+            }
+
+            &::placeholder {
+                font-weight: bold;
+                font-family: $segoeFont;
+                font-size: 1rem;
+                text-transform: uppercase;
+                color: transparent;
+                @include xl {
+                    color: white;
+                }
+            }
+        }
+    }
+    form.searchbox-activated {
+        &::before {
+            color: $btnHoverColor;
+        }
+        input[type="text"] {
+            color: $btnHoverColor;
+            background-color: white;
+            border: 2px solid $btnHoverColor;
+            &::placeholder {
+                color: $btnHoverColor;
+            }
+        }
+    }
+}
+
+
+// Header Search box
+.header-searchbox {
+    background: rgba(31, 74, 129, .9);
+    width: calc(100% - 60px);
+    max-width: calc(1600px - 60px);
+    border: 1px solid white;
+    border-radius: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: calc(3.5vw - 1vw) 2.5vw 3.5vw 2.5vw;
+    z-index: 100000;
+    top: 130px;
+}
+
+.header-searchbox-header {
+    h2 {
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 2.5rem;
+    }
+}
+
+.header-search-box-close {
+    border: 3px solid white;
+    width: 49px;
+    height: 49px;
+}
+
+.header-searchbox-body {
+    form.searchform {
+        position: relative;
+
+        &::before {
+            content: "\f002";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            font-size: 1.1rem;
+            color: grey;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: 30px;
+            pointer-events: none;
+        }
+
+        input[type="submit"] {
+            display: none;
+        }
+
+        input[type="text"] {
+            border: 3px solid #D7D7D7;
+            border-radius: 50px;
+            width: 100%;
+            padding-left: 80px;
+            padding-right: 30px;
+            height: 4.5vw;
+            color: #A4A4A4;
+            font-family: $helveticaFont;
+            font-size: $font20;
+            background: white;
+        }
+    }
+
+    .search-box-recent-searches {
+        >p {
+            display: none;
+        }
+
+        ul {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        li {
+            a {
+                font-family: $helveticaFont;
+                font-size: 22px;
+                line-height: 26px;
+                color: white;
+                text-transform: capitalize;
+                padding: 0.87vw 1.87vw;
+                display: inline-block;
+                border: 3px solid white;
+                border-radius: 50px;
+                transition: all .3s;
+                font-weight: bold;
+            }
+            &:hover {
+                a {
+                    background-color: $thirdColor;
+                }
+            }
+        }
+    }
+}
+
+// Inventory dropdownn styling
+.main-header-wrapper {
+    .inventory-dropdown-parent {
+        .sub-menu {
+            min-width: 1000px;
+
+            >li>a {
+                display: none;
+            }
+        }
+    }
+}
+
+.inventory-dropdown-container {
+    grid-template-columns: 1fr;
+    display: grid;
+
+    @include md {
+        grid-template-columns: 2fr 1fr 1fr;
+    }
+}
+
+.vehicles-types {
+    row-gap: 35px;
+}
+
+.view-all-inventory-cta {
+    box-shadow: $shadowPrimary;
+}
+
+// Business Hours Menu
+.hours-and-directions-header {
+    .sub-menu {
+        width: 500px !important;
+        left: -370px;
+        @include xl {
+            left: -300px;
+        }
+    }
+    & > .sub-menu::before {
+        left: unset !important;
+        right: 50px;
+    }
+}
+
+.header-hours {
+    column-gap: 30px;
+}
+
+.active-day-hours span,
+.active-day-hours p {
+    font-weight: bold;
+    color: #CF2129 !important;
+}
+
+// Show the popups
+.nested-popup {
+    bottom: 100%;
+}
+
+.nested-popup-wrapper:hover {
+    >.nested-popup {
+        display: block !important;
+    }
+}
+.hours-iframe {
+    height: 150px;
+    border: 1px solid #707070;
+}
+
+
+// Mobile header design
+.mobile-logo-wrapper {
+    width: 80px;
+    min-width: 80px;
+    height: 56px;
+}
+.mobile-overflowing-menu {
+    white-space: nowrap;
+    overflow: scroll;
+    display: flex;
+    > nav {
+        white-space: nowrap;
+    }
+    li a {
+        color: white;
+        font-size: $fontSM;
+        font-weight: bold;
+    }
+    li:not(:last-child) {
+        margin-right: 30px;
+    }
+}
+.mobile-header-icons {
+    a:not(:last-child) {
+        margin-right: calc(20px - 1.1vw);
+    }
+}
+.mobile-main-header-wrapper {
+    background-image: linear-gradient($primaryColor, #2874A7);
+    gap: 10px;
+}
+.mobile-header-search {
+    input[type="search"] {
+        + i {
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: white;
+        }
+        &::placeholder {
+            color: white;
+        }
+        &:focus {
+            background-color: white !important;
+            color: black !important;
+            + i {
+                color: black;
+            }
+        }
+    }
+}
+.header-icon-box {
+    display: flex;
+}
+.mobile-toggler-icon {
+    width: 25px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3px;
+    >div {
+        background-color: white;
+        height: 12px;
+    }
+    &.menu-opened {
+        >div {
+            background-color: #FFCC00;
+        }
+    }
+}
+// Toggler Dropdown
+.toggler-dropdown-wrapper {
+    z-index: 2;
+    background-image: linear-gradient(#98C6EB, #12324C);
+    padding-bottom: 11rem;
+}
+.quick-routes {
+    border-radius: 0 0 40px 40px;
+}
+.view-quick-routes {
+    background-color: #2874A7;
+    width: 50px;
+    height: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -25px;
+    i {
+        font-size: $fontXXL;
+        color: #FFCC00;
+        transition: all .3s;
+        transform: rotate(90deg);
+    }
+}
+.quick-routes-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+.quick-route-icon {
+    border: 1px solid #B0B0B0;
+    background-color: #2EAAFA;
+    border-radius: 10px;
+    height: 100px;
+}
+.quick-route-anchor {
+    color: #215188;
+}
+.quick-routes-links-hidden {
+    .quick-routes-links {
+        height: 0;
+        overflow: hidden;
+    }
+}
+.quick-routes-links-active {
+    .quick-routes-links {
+       height: auto;
+       overflow: visible;
+    }
+    .view-quick-routes i {
+        transform: rotate(-90deg);
+    }   
+}
+.mobile-main-header-sticky,
+.header-main-header-sticky  {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    max-width: 1600px;
+}
+.main-header-sticky,
+.mobile-main-header-sticky {
+    position: fixed;
+    top: -100%;
+    width: 100%;
+    z-index: 9;
+    max-width: 1600px;
+    transition: all .4s;
+}
+.logged-in .main-header-sticky.active {
+    top: 32px;
+}
+.logged-in .mobile-main-header-sticky.active {
+    top: 0;
+}
+@media (min-width: 601px) {
+    // Admin bar does not becomes sticky in mobile view
+    .logged-in .mobile-main-header-sticky.active {
+        top: 32px;
+    }
+}
+
+.main-header-sticky.active,
+.mobile-main-header-sticky.active {
+    top: 0;
+}
+.header-pages-cards { 
+    display: grid;
+    gap: 15px;
+    grid-template-columns: 1fr 1fr;
+    @include md {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}   
+
+.header-page-card {
+    height: 175px;
+    .page-card-img-wrapper {
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        height: 105px;
+    }
+    img {
+        width: auto;
+        object-fit: contain;
+    }
+    .page-card-title {
+        color: #215188;
+    }    
+}
+#header-wrapper {
+    position: relative;
+    z-index: 1000;
+}
+.page-back-history {
+    width: 40px;
+    height: 40px;
+}
+.page-spaned-card {
+    grid-column: 1 / 2 span;
+    @include md {
+        grid-column: 1 / 3 span;
+    }
+}
+.header-icon-box-clock.active {
+    i {
+        background-color: #ffcc00;
+        border-radius: 50px;
+        color: #2874A7;
+    }
+    span {
+        color: #ffcc00;
+    }
+}
+.hours-tooltip-container {
+    border: 1px solid $fifthColor;
+    border-top: 10px solid #cf2129;
+}
+// Change arrow color of hours popover in mobile header
+
+.popover.bs-popover-bottom .popover-body {
+    padding:0;
+    border-radius: 0;
+}
+.popover.bs-popover-bottom .arrow::after {
+    border-bottom-color: #CF2129;
+}
+
+// Sale & Service Hours Tooltip
+.header-sale-service-tooltip {
+    top: 65px;
+    width: auto;
+    border-radius: 0 0 20px 20px;
+    z-index: 1;
+    border-top: 10px solid #CF2129;
+    display: none;
+    min-width: 450px; // For tablet screens with screen size of min 992px
+    @include xl {
+        min-width: 550px;
+    }
+    &::before {
+        content: '';
+        position: absolute;
+        top: -30px;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-bottom: 20px solid #CF2129;
+        left: 20px;
+    }
+}
+.header-sale-service-hours-wrapper:hover > .header-sale-service-tooltip,
+.header-sale-service-hours-wrapper:hover > .header-sale-service-tooltip:hover {
+    display: block;
+}

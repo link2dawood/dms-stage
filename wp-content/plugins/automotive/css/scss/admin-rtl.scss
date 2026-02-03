@@ -1,0 +1,21 @@
+// compileCompressed: ../$1.css
+$left: right;
+$right: left;
+
+@import "admin";
+
+.rtl {
+  .automotive_meta_tabs .help_area .triangle {
+    border-width: 60px 60px 0 0;
+    border-color: #F7F7F7 transparent transparent transparent;
+  }
+
+  .automotive_meta_tabs .help_area .triangle i {
+    right: -25px;
+    top: -50px;
+  }
+
+  .ui-tabs.automotive_meta_tabs .ui-tabs-nav {
+    border-left: 0;
+  }
+}

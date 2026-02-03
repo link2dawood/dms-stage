@@ -1,0 +1,48 @@
+$globalContentBannerBackground: #00214a ;
+.global-content-banner-module {
+    width: 100%;
+    @include tabletMd {
+        width: 80%;
+    }
+    @include desktop {
+        width: 50%;
+    }
+}
+.global-content-banner-row {
+    padding: 0 15px;
+    @include tabletMd {
+        padding: 0 20px;
+    }
+    @include desktop {
+        padding: 0 30px;
+    }
+}
+.global-content-banner-column {
+    padding: 15px 15px 76px ;
+    background-color: $globalContentBannerBackground;
+    @include tabletMd {
+        padding: 18px 20px 76px;
+    }
+    @include desktop {
+        padding: 18px 30px 76px;
+    }
+}
+.global-content-banner-heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+    @include tabletMd {
+        font-size: 36px;
+        margin-bottom: 30px;
+    }
+}
+.global-content-banner-para {
+    font-size: 16px;
+    line-height: 19px;
+    @include tabletMd {
+        line-height: 21px;
+        font-size: 18px;
+    }
+}
+.global-content-first-para {
+    margin-bottom: 1em;
+}

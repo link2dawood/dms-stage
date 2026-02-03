@@ -1,0 +1,81 @@
+h1,h2,h3,h4,h5,h6 {
+    $headingcolor: #707070 ;
+    color: $headingcolor;
+}
+h2,h3,h4,h5,h6{
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 24px;
+}
+h3.global-content-primary-heading {
+    font-size: 20px;
+    @include tabletMd {
+        font-size: 26px;
+    }
+}
+.__module-with-content, .widget-button-link, .widget-buttons-group, .widget-image, .widget-paragraph {
+    margin-bottom: 25px;
+}
+.inline-15 {
+    margin-bottom: 15px;
+}
+.inline-16 {
+    margin-bottom: 65px;
+}
+.inline-30 {
+    margin-bottom: 30px;
+}
+.inline-40 {
+    margin-bottom: 40px;
+}
+.heading-margin-top {
+    margin-top: 20px ;
+    @include tabletMd {
+        margin-top: 30px;
+    }
+}
+.heading-margin-bottom {
+    margin-bottom: 20px;
+    @include tabletMd {
+        margin-bottom: 30px;
+    }
+}
+.global-content-primary-para {
+    $paraColor: #707070 ;
+    color: $paraColor;
+    font-size: 15px;
+    line-height: 1.4;
+    @include desktop {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+}
+.global-content-right-list-wrapper {
+    margin-top: 20px;
+    list-style-type: none !important;
+}
+.global-content-left-list-wrapper {
+    list-style-position: inside !important;
+    padding-left: 0 !important;
+}
+.global-content-left-list-wrapper li{
+    line-height: 2;
+    font-size: 18px;
+    color: #444;
+}
+.global-content-right-list {
+    margin-bottom: 13px;
+}
+.global-content-right-last-list {
+    margin-bottom: 0;
+}
+.global-content-right-lists-item {
+    $linksColor: #408EE9 ;
+    color: $linksColor;
+    font-size: 18px;
+}
+.global-content-right-primary-heading {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #707070;
+}

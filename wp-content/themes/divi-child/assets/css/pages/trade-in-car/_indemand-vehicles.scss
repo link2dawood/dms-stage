@@ -1,0 +1,33 @@
+.indemand {
+    &-primary-heading {
+        margin-bottom: 25px;
+        margin-top: 75px;
+        color: #444444;
+        font-size: 24px;
+    }
+    &-vehicle:not(:last-child) {
+        margin-bottom: 75px;
+    }
+    &-vehicles-info {
+        grid-template-columns: 1fr 1fr;
+        @include tabletMd {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+    &-ford-info {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    &-heading {
+        font-size: 20px;
+        color: #444444;
+        line-height: 1.6;
+        @include tabletMd {
+            font-size: 24px;
+        }
+    }
+    &-overview span {
+        line-height: 1.6;
+        font-weight: 300;
+    }
+
+}

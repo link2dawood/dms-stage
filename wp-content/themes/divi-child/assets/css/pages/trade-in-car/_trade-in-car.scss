@@ -1,0 +1,20 @@
+.trade{
+    &-in-car-para-1 {
+        margin-top: 35px;
+    }
+    &-in-car-para {
+        margin-bottom: 10px;
+        font-weight: 300;
+    }
+    &-in-car-iframe, &-in-car-iframe iframe{
+        height: 100%;
+    }
+    &-in-car-iframe {
+        padding-bottom: 30px;
+        height: 1300px;
+        @include tabletMd {
+            height: 100%;
+            padding-bottom: 0;
+        }
+    }
+}

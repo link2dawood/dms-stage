@@ -1,0 +1,46 @@
+
+
+.recent-vehicles .scroller_title {
+    font-family: var(--helvetica-font);
+    line-height: 1.813em;
+    font-weight: 600;
+    color: $primaryColor;
+    font-size: 1rem;
+    @include tabletMd {
+        font-size: 1.5rem;
+    }
+}
+#home-recent-post-scroller {
+    #slideControls3 span a {
+        background-color: #868686;
+    }
+    .car-block {
+        min-height: 216px;
+        &:hover {
+            background-color: $posts-card-hover-color;
+            .car-block-bottom {
+                background-color: transparent;
+            }
+        }
+    }
+    @include tabletm {
+         .row {
+            flex-wrap: unset;
+        }
+    }
+
+}
+.car-block-bottom {
+    font-family: var(--helvetica-font);
+}
+
+.scroller_title {
+    & + p {
+        font-size: 0.875rem;
+        color: #808080;
+        margin-bottom: 20px;
+        @include tabletMd {
+            font-size: 1rem;
+        }
+    }
+}

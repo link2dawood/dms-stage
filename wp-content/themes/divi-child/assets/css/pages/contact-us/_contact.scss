@@ -1,0 +1,12 @@
+.contact {
+    &__get-directions {
+        color: #2969b0;
+        font-size: 18px;
+    }
+    &__hours {
+        column-gap: 10px;
+        a {
+            color: #2969b0;
+        }
+    }
+}

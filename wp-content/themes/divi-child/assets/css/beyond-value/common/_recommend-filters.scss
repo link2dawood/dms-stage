@@ -1,0 +1,53 @@
+.listing-offers-options {
+    margin: 25px -20px;
+    @include desktop {
+        margin: 0 -20px;
+        margin-bottom: 25px;
+    }
+    padding: 0 40px;
+    .listing-offer-option {
+        padding-bottom: 5px;
+    }
+    .slick-track {
+        display: flex;
+        align-items: center;
+    }
+
+    .slick-slide {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .slick-prev {
+        transform: translate(0, -50%) rotatey(180deg);
+        left: 16px;
+    }
+
+    .slick-next {
+        right: 16px;
+    }
+
+    .slick-arrow {
+        z-index: 1;
+
+        i {
+            font-size: $fontMD;
+            color: $primaryColor;
+        }
+    }
+}
+.listing-offer-option-link,
+.listing-custom-option-link {
+    background: #EFEFEF;
+    box-shadow: $secondaryShadow;
+    border-radius: 30px;
+    width: 100%;
+    padding: 13px 20px;
+    color: #efefef;
+    font-size: $fontXSSM;
+    transition: all $transitionSpeed;
+    &:hover {
+        background: #5282B4;
+        color: $white !important;
+    }
+}

@@ -1,0 +1,17 @@
+
+.our-services__yt-iframe iframe {
+    min-height: 300px;
+}
+
+.our-services__pdf-btn {
+    column-gap: 10px;
+    > a {
+        padding: 7px 30px;
+        flex: 1;
+        background-color: #ececec;
+        border: 1px solid #cecece;
+        &:hover {
+            background-color: #cecece;
+        }
+    }
+}

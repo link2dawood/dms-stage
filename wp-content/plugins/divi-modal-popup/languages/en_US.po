@@ -1,0 +1,816 @@
+# Copyright (C) 2023 Elicus
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Modal Popup 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/divi-modal-popup\n"
+"POT-Creation-Date: 2023-09-21 11:37:04+00:00\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Divi Modal Popup"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:45
+msgid "Configuration"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:46
+msgid "Modal Header"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:47 includes/modules/Modal/Modal.php:118
+msgid "Modal Body"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:48
+msgid "Modal Footer"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:49
+msgid "Scroll Settings"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:50
+msgid "Background"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:55
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:56 includes/modules/Modal/Modal.php:194
+msgid "Trigger Button"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:57 includes/modules/Modal/Modal.php:156
+msgid "Trigger Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:58
+msgid "Trigger Icon"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:59
+msgid "Trigger Image"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:60
+msgid "Modal Title Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:61
+msgid "Modal Body Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:62
+msgid "Modal Close Icon"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:63
+msgid "Modal Close Button"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:64
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:65
+msgid "Border"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:66
+msgid "Modal Sizing & Alignment"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:76 includes/modules/Modal/Modal.php:747
+msgid "Modal Title"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:218
+msgid "Close Button"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:271
+msgid "Trigger Element Box Shadow"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:279
+msgid "Modal Box Shadow"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:287
+msgid "Modal Header Box Shadow"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:295
+msgid "Modal Footer Box Shadow"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:309
+msgid "Modal Width"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:333
+msgid "Image Width"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:363
+msgid "Modal Height"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:391
+msgid "Trigger Element Alignment"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:463
+msgid "Select"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:482
+msgid ""
+"In order to make the modal work perfectly, please enter a unique ID for it."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:490
+msgid "Unique Modal ID"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:497
+msgid "Enter a unique ID for the modal to make it work perfectly."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:500
+msgid "Trigger Type"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:504
+msgid "Element"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:505
+msgid "On Page Load"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:506
+msgid "Exit Intent"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:507
+msgid "On Scroll"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:513
+msgid "Here you can select how you want to activate modal on the page."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:516
+msgid "Trigger Delay"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:534
+msgid ""
+"Move the slider or input the value to apply delay in activating the modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:537
+msgid "Re-render modal on reloading/revisiting the page"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:541 includes/modules/Modal/Modal.php:692
+#: includes/modules/Modal/Modal.php:706 includes/modules/Modal/Modal.php:720
+#: includes/modules/Modal/Modal.php:734 includes/modules/Modal/Modal.php:763
+#: includes/modules/Modal/Modal.php:780 includes/modules/Modal/Modal.php:886
+#: includes/modules/Modal/Modal.php:917
+msgid "No"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:542 includes/modules/Modal/Modal.php:693
+#: includes/modules/Modal/Modal.php:707 includes/modules/Modal/Modal.php:721
+#: includes/modules/Modal/Modal.php:735 includes/modules/Modal/Modal.php:764
+#: includes/modules/Modal/Modal.php:781 includes/modules/Modal/Modal.php:887
+#: includes/modules/Modal/Modal.php:918
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:551
+msgid ""
+"Here you can choose whether to re-render modal on reload or revisiting the "
+"page after user closed the modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:554
+msgid "Scroll Position"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:571
+msgid ""
+"Move the slider or input the value to trigger the modal after user crossed "
+"the desired position of scroll."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:574
+msgid "Trigger Element Type"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:578
+msgid "Button"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:579 includes/modules/Modal/Modal.php:647
+#: includes/modules/Modal/Modal.php:808 includes/modules/Modal/Modal.php:830
+msgid "Image"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:580 includes/modules/Modal/Modal.php:633
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:581 includes/modules/Modal/Modal.php:674
+#: includes/modules/Modal/Modal.php:807 includes/modules/Modal/Modal.php:819
+msgid "Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:582 includes/modules/Modal/Modal.php:595
+msgid "Element CSS ID"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:583 includes/modules/Modal/Modal.php:607
+msgid "Element CSS Class"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:592
+msgid ""
+"Here you can select the trigger element you want to use for activating the "
+"modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:604
+msgid ""
+"Here you can input the CSS ID(without #) of the element to be used as a "
+"trigger for activating the modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:616
+msgid ""
+"Here you can input the CSS Class(without .) of the element to be used as a "
+"trigger for activating the modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:619
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:630
+msgid "Here you can input the text to be used for the button of modal trigger."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:644
+msgid "Here you can select an icon to be used for the modal trigger."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:650 includes/modules/Modal/Modal.php:833
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:651 includes/modules/Modal/Modal.php:834
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:652 includes/modules/Modal/Modal.php:835
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:659
+msgid "Here you can add an image to be used for the modal trigger."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:662 includes/modules/Modal/Modal.php:844
+msgid "Image Alternative Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:671
+msgid ""
+"Here you can input the text to be used for the image of modal trigger as "
+"alternative text."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:685
+msgid "Here you can input the text to be used as modal trigger."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:688
+msgid "Close Modal on ESC"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:699
+msgid "Here you can choose whether or not to close the modal on ESC key."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:702
+msgid "Close Modal on background click"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:713
+msgid ""
+"Here you can choose whether or not to close the modal on clicking outside "
+"the modal content."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:716
+msgid "Show Header"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:727
+msgid "Here you can choose whether or not to display header with modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:730
+msgid "Show Modal Title"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:744
+msgid "Here you can choose whether or not to display title on the modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:756
+msgid "Here you can input the text to be used for the modal title."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:759
+msgid "Show Close Icon"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:773
+msgid "Here you can choose whether or not to display close icon on the modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:776
+msgid "Show Footer"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:787
+msgid "Here you can choose whether or not to display footer with modal."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:790
+msgid "Close Button Text"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:800
+msgid "Here you can input the text to be used for the modal close button."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:803
+msgid "Modal Content Type"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:809
+msgid "Video"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:810 includes/modules/Modal/Modal.php:899
+msgid "Divi Library Layout"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:816
+msgid ""
+"Here you can choose what type of content you want to display inside modal "
+"body."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:827
+msgid "Here you can input the text to be used for the modal content."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:841
+msgid "Here you can add an image to be used for the modal content."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:852
+msgid ""
+"Here you can input the text to be used for the modal content image as "
+"alternative text."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:855
+msgid "Link"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:864
+msgid "Here you can add an image link."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:867
+msgid "Video MP4 File Or URL"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:871
+msgid "Upload a video"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:872
+msgid "Choose a Video MP4 File"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:873
+msgid "Set As Video"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:879
+msgid ""
+"Upload your desired video in .MP4 format, or enter in the URL of the video "
+"you would like to display inside modal content."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:882
+msgid "Autoplay Video"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:896
+msgid ""
+"Here you can choose whether or not to autoplay video. We can not guarantee "
+"autoplay for all platforms video. Videos which support 'autoplay=1' in their "
+"url structure can be autoplayed eg. YouTube, Vimeo. Videos uploaded in media "
+"library can be supported."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:910
+msgid ""
+"Here you can select the layouts saved in your Divi library to be used for "
+"the modal content."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:913
+msgid "Disable Website scroll"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:924
+msgid ""
+"Here you can select whether to disable webpage scroll when the modal pops up."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:927
+msgid "Modal Scrollbar"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:931
+msgid "Show"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:932
+msgid "Hide"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:937
+msgid ""
+"Here you can select whether to show or hide scrollbar. This is totally "
+"depends on the browser, we can not guarantee the result of it."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:940
+msgid "Trigger Icon Font Size"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:957
+msgid ""
+"Move the slider or input the value to increase or decrease trigger icon size."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:960
+msgid "Trigger Icon Color"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:970
+msgid "Here you can define a custom color to be used for the trigger icon."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:973
+msgid "Modal Margin"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:981 includes/modules/Modal/Modal.php:1006
+#: includes/modules/Modal/Modal.php:1031 includes/modules/Modal/Modal.php:1056
+msgid ""
+"Margin adds extra space to the outside of the element, increasing the "
+"distance between the element and other items on the page."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:984
+msgid "Modal Padding"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:992 includes/modules/Modal/Modal.php:1020
+#: includes/modules/Modal/Modal.php:1042 includes/modules/Modal/Modal.php:1070
+msgid ""
+"Padding adds extra space to the inside of the element, increasing the "
+"distance between the edge of the element and its inner contents."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:995
+msgid "Modal Header Margin"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1009
+msgid "Modal Header Padding"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1023
+msgid "Modal Body Margin"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1034
+msgid "Modal Body Padding"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1045
+msgid "Modal Footer Margin"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1059
+msgid "Modal Footer Padding"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1073
+msgid "Trigger Element Background"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1088
+msgid ""
+"Customize the background of the Trigger Element by adjusting background "
+"color, gradient, and image."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1091
+msgid "Modal Background Overlay"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1102
+msgid ""
+"Customize the background of the modal background overlay by adjusting "
+"background color, gradient, and image."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1105
+msgid "Modal Background"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1116
+msgid ""
+"Customize the background of the modal by adjusting background color, "
+"gradient, and image."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1119
+msgid "Modal Header Background"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1133
+msgid ""
+"Customize the background of the modal header by adjusting background color, "
+"gradient, and image."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1136
+msgid "Modal Body Background"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1147
+msgid ""
+"Customize the background of the modal body by adjusting background color, "
+"gradient, and image."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1150
+msgid "Modal Footer Background"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1164
+msgid ""
+"Customize the background of the modal footer by adjusting background color, "
+"gradient, and image."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1179
+msgid "Close Icon Font Size"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1196
+msgid ""
+"Move the slider or input the value to increase or decrease close icon size."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1199
+msgid "Close Icon Color"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1210
+msgid "Here you can define a custom color to be used for the close icon."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1213
+msgid "Modal Position"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1217
+msgid "Top Left"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1218
+msgid "Top Right"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1219
+msgid "Top Center"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1220
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1221
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1222
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1223 includes/modules/Modal/Modal.php:1255
+msgid "Center"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1229
+msgid ""
+"Here you can select where you want to place the modal on the page once "
+"triggered."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1232
+msgid "Modal Animation Style"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1236
+msgid "None"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1237
+msgid "Fade"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1238
+msgid "Slide"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1239
+msgid "Bounce"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1240
+msgid "Zoom"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1241
+msgid "Flip"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1242
+msgid "Fold"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1243
+msgid "Roll"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1248
+msgid ""
+"Pick an animation style to enable animations for the modal. Once enabled, "
+"you will be able to customize your animation style further."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1251
+msgid "Modal Animation Direction"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1256
+msgid "Right"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1257
+msgid "Left"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1258
+msgid "Up"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1259
+msgid "Down"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1268
+msgid ""
+"Pick from up to five different animation directions, each of which will "
+"adjust the starting and ending position of your animated element."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1271
+msgid "Modal Animation Duration"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1290
+msgid ""
+"Speed up or slow down your animation by adjusting the animation duration. "
+"Units are in milliseconds and the default animation duration is one second."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1293
+msgid "Modal Animation Intensity"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1312
+msgid ""
+"Intensity effects how subtle or aggressive your animation will be. Lowering "
+"the intensity will create a smoother and more subtle animation while "
+"increasing the intensity will create a snappier more aggressive animation."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1315
+msgid "Modal Animation Starting Opacity"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1336
+msgid ""
+"By increasing the starting opacity, you can reduce or remove the fade effect "
+"that is applied to all animation styles."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1339
+msgid "Modal Animation Speed Curve"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1343
+msgid "Ease-In-Out"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1344
+msgid "Ease"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1345
+msgid "Ease-In"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1346
+msgid "Ease-Out"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1347
+msgid "Linear"
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1356
+msgid ""
+"Here you can adjust the easing method of your animation. Easing your "
+"animation in and out will create a smoother effect when compared to a linear "
+"speed curve."
+msgstr ""
+
+#: includes/modules/Modal/Modal.php:1591
+msgid "Close"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://diviextended.com/product/divi-modal-popup/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Divi Modal Popup plugin allows you to create popups & lightboxes for videos, "
+"images, text, & more with multiple trigger types."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elicus"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://elicus.com/"
+msgstr ""

@@ -1,0 +1,35 @@
+$fieldsPadding : 15px 20px;
+$submitBackground : #1f4a81;
+$submitPadding: 15px ;
+
+.global-form {
+    &-field {
+        margin-bottom: 20px;
+
+        textarea {
+            resize: none;
+            height: 150px;
+        }
+
+        input,
+        textarea {
+            padding: $fieldsPadding !important;
+            outline: none;
+            border: 1px solid #a7a7a7cc !important;
+            font-style: normal;
+            &:hover {
+                border-color: $submitBackground !important;
+            }
+        }
+    }
+
+    &-submit {
+        input {
+            background-color: $submitBackground;
+            padding: $submitPadding;
+            border: none;
+            border-radius: 4px !important;
+            font-style: normal;
+        }
+    }
+}

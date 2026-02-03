@@ -1,0 +1,31 @@
+$submitBackground: #1f4a81 ;
+$submitPadding: 7px 30px ;
+$fieldsPadding: 7px 15px ;
+.form-meta-info {
+    width: 85%;
+    @include tabletMd {
+        width: 65%;
+    }
+}
+.aff-form {
+    margin-top: 15px;
+    &-field input{
+        margin-bottom: 20px;
+        padding: $fieldsPadding;
+    }
+    &-submit-field input{
+        background: $submitBackground !important;
+        border: unset;
+        border-radius: 0;
+        padding: $submitPadding;
+        color: $white;
+        text-transform: uppercase;
+        font-size: $fontMD;
+        margin: 10px 0 0 0 !important;
+    }
+}
+.aff-message-field textarea{
+    resize: none;
+    height: 150px ;
+    margin-bottom: 20px;
+}

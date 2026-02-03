@@ -1,0 +1,31 @@
+.global-sticker-popup {
+    top: 0;
+    left: 50%;
+    max-width: 1600px;
+    margin: 0 auto;
+    z-index: 99999;
+    transform: translateX(-50%);
+    display: none;
+    &__overlay {
+        top: 0;
+        left: 0;
+        background-color: rgba(32, 14, 50, 0.62);
+        z-index: 1;
+    }
+    &__content {
+        z-index: 2;
+        border: 1px solid;
+        max-width: 1300px;
+        height: 85vh;
+        max-height: 85vh;
+    }
+    &__iframe {
+        height: calc(85vh - 2rem - 27px);
+    }
+    &__iframe iframe {
+        border-top: 1px solid rgb(222, 222, 222);
+    }
+    &__close {
+        margin: 1rem 2rem 1rem auto;
+    }
+}

@@ -1,0 +1,9 @@
+// compileCompressed: ../$1.css
+$left: right;
+$right: left;
+
+@import "shortcodes";
+
+.bx-wrapper {
+  direction: ltr;
+}

@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "field_ace_editor.css",
+	"sources": [
+		"ace_editor/field_ace_editor.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AACI,2BADuB,CACvB,YAAY,AAAC,CACT,QAAQ,CAAE,MAAM,CACnB,AAHL,AAKI,2BALuB,CAKvB,WAAW,AAAC,CACR,MAAM,CAAE,KAAK,CACb,qBAAqB,CAAE,GAAG,CAC1B,kBAAkB,CAAE,GAAG,CACvB,aAAa,CAAE,GAAG,CACrB,AAVL,AAYI,2BAZuB,CAYvB,WAAW,AAAC,CACR,OAAO,CAAE,YAAY,CACxB"
+}

@@ -1,0 +1,24 @@
+.about-us {
+    &__grid {
+        grid-template-columns: 1fr ;
+        row-gap: 30px;
+        @include desktop {
+            column-gap: 30px;
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+    &__value-last {
+        @include desktop {
+            grid-column: 1 / span 2;
+        }
+    }
+    &__grid-heading {
+        margin-bottom: 5px;
+        font-family: $sansProFont;
+    }
+    &__grid-para {
+        color: $philosophyTextColor;
+        line-height: 1.6;
+        font-family: $sansProFont;
+    }
+}

@@ -1,0 +1,86 @@
+$multistepStepColor: #464646;
+$activeStepCounterBackground: #01468b;
+$stepCounterBackground: #ececec;
+$activeStepCounterColor: #01468b;
+$stepCounterColor: #464646;
+
+.multistep {
+    &-step-indicator-wrapper {
+        column-gap: 3px;
+        margin-top: 10px;
+        grid-template-columns: 1fr 1fr;
+        margin-bottom: 50px;
+        @include tablet {
+            margin-bottom: 60px;
+        }
+        @include desktop {
+            margin-bottom: 80px;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+        > div:not(:last-child) {
+            margin-bottom: 3px;
+            @include desktop {
+                margin-bottom: unset;
+            }
+        }
+    }
+
+    &-step-col {
+        flex: 1;
+        background: $multistepStepColor;
+        padding: 18px 13px 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        row-gap: 4px;
+        line-height: 1.6;
+        cursor: no-drop;
+        b {
+            font-size: 2.9vw;
+            font-weight: normal;
+            text-align: center;
+            @include tablet {
+                font-size: 2.4vw;
+            }
+            @include tabletMd {
+                font-size: 14px;
+            }
+        }
+    }
+    &-col-3 {
+        grid-column: 1 / span 2;
+        @include desktop {
+            grid-column: unset;
+        }
+    }
+
+    &-step-col-active {
+        background: $activeStepCounterBackground;
+        cursor: auto;
+        span {
+            color: $activeStepCounterColor;
+        }
+    }
+
+    &-step-counter {
+        background-color: $stepCounterBackground;
+        color: $stepCounterColor;
+        width: 26px;
+        height: 26px;
+        line-height: 26px;
+        font-size: 14px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50px;
+    }
+
+    &-after-form-para {
+        margin-top: 30px;
+        clear: both;
+        @include tabletMd {
+            margin-top: 60px;
+        }
+    }
+}

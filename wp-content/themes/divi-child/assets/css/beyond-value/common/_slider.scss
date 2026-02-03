@@ -1,0 +1,42 @@
+$arrowColor : #000000;
+
+.listing {
+    &-main-image-slider .slick-track {
+        height: 280px;
+
+        @include tabletMd {
+            height: 570px;
+        }
+
+        &::-webkit-scrollbar {
+            display: none;
+        }
+
+        .slick-slide {
+            height: 100%;
+
+            img {
+                height: 100%;
+                background-size: cover;
+                object-fit: cover;
+            }
+        }
+    }
+
+    &-thumbnail-slider-wrapper {
+        .slick-arrow {
+            i {
+                font-size: 20px;
+                color: $arrowColor;
+            }
+        }
+
+        .slick-prev {
+            left: 0;
+        }
+
+        .slick-next {
+            right: 0;
+        }
+    }
+}

@@ -1,0 +1,49 @@
+$autodetailPriceColor: #707070;
+$autodetailDesColor: #444444 ;
+$autodetailCtaBackground: #ececec ;
+$autodetailCtaColor: #2969b0 ;
+.auto-detail {
+    &-grid {
+        margin-top: 40px;
+        grid-template-columns: 1fr;
+        row-gap: 10px;
+        @include desktop {
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            column-gap: 30px;
+            row-gap: 0;
+        }
+    }
+    &-content {
+        margin-top: 35px;
+    }
+    &-title {
+        margin-bottom: 20px;
+        font-size: 1.3rem;
+        @include tabletMd{ 
+            font-size: 1.2vw;
+            min-height: 17px;
+        }
+    }
+    &-price {
+        font-size: 22px;
+        margin-bottom: 20px;
+        color: $autodetailPriceColor;
+        min-height: 25px;
+    }
+    &-desc {
+        font-size: 16px;
+        line-height: 25px;
+        color: $autodetailDesColor ;
+        margin-bottom: 20px;
+        min-height: 75px;
+    }
+    &-cta-link {
+        padding: 10px 20px;
+        background-color: $autodetailCtaBackground;
+        color: $autodetailCtaColor;
+        line-height: 1.6;
+    }
+    &-view-details  {
+        margin-bottom: 10px;
+    }
+}

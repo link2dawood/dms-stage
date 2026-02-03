@@ -1,0 +1,299 @@
+// color filters
+.color-filter-pills {
+    height: 50px;
+    width: 50px;
+}
+
+.color-filter-pills[data-color="other"] {
+    background-color: #f0f8ff;
+    border: 1px solid black;
+}
+
+.color-filter-pills[data-color="white"],
+.color-filter-pills[data-color="ceramic"],
+.color-filter-pills[data-color="ivory"] {
+    border: 1px solid black;
+}
+
+.disabled-filter-option {
+    user-select: none;
+    pointer-events: none;
+    opacity: .5;
+}
+
+.compare-listings__wrapper-open {
+    bottom: 15px;
+}
+
+.hideCompareCheckbox {
+    .chk-compare:not(:checked) {
+        display: none;
+    }
+}
+
+.chk-compare:disabled,
+.compare-listings__card-remove span:disabled,
+.compare-listings__remove-all:disabled,
+.compare-listings__close:disabled {
+    opacity: .9;
+    pointer-events: none;
+}
+// Inventory Listing Cards
+.listing-image-slider {
+    .card-thumbnail {
+        object-fit: contain;
+        background-size: contain;
+        background-position: center;
+        // height: 165px;
+        height: 257px;
+        @include sm {
+            height: 410px;
+        }
+        @include md {
+            height: 310px;
+        }
+        @include lg {
+            height: 252px;
+        }
+        @include xl {
+            height: 200px;
+        }
+        @include xxl {
+            height: 270px;
+        }
+    }
+}
+.manager-specials-card {
+    background: #d70000;
+    background: linear-gradient(180deg, 
+    #d70000 0.00%, 
+    #a20606 100.00%);
+    letter-spacing: 1px;
+}
+.managers-specials-badge {
+    height: 31px;
+}
+.recently-viewed-card {
+    background: #ffde00;
+    background: linear-gradient(180deg, 
+    #ffde00 0.00%, 
+    #e6cd26 100.00%);
+    letter-spacing: 1px;
+}
+.recently-viewed-card.active {
+    padding: 5px !important;
+    height: auto;
+    border: 2px solid #bbb;
+    border-radius: 3px;
+    background: linear-gradient(0, #707070aa, white);
+    font-weight: bolder !important;
+    height: auto !important;
+}
+.listing-card-wrapper {
+    border: 2px solid $Grey2;
+    filter: drop-shadow(0px 3px 3px rgba(0,0,0,0.16 ));
+}
+.card-content-wrapper {
+    .icon-heart {
+        font-size: $font20;
+    }
+    .card-vehicle-liked {
+        width: 21px;
+    }
+}
+.card-color-ball {
+    width: 25px;
+    height: 25px;
+    border: 1px solid $Grey2;
+    filter: drop-shadow(0px 3px 3px rgba(0,0,0,0.16 ));
+}
+// Card compare box
+.inventory-products-bar__compare-listing {
+    background-color: #00000080;
+    width: fit-content;
+    top: 0;
+    right: 0;
+    input {
+        width: 17px;
+        height: 17px;
+        appearance: none;
+        border: 2px solid $Grey2;
+        &::before {
+            content: "✔";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: none;
+        }
+        &:checked::before{
+            display: block;
+        }
+    }
+}
+
+// List view styling
+.list-view-inventory {
+    & > .col-12 {
+        max-width: 100%;
+        flex: 100%;
+    }
+    .listing-card-wrapper {
+        display: flex;
+        > .card-image-wrapper {
+            width: 40%;
+        }
+        > .card-content-wrapper {
+            width: 60%;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .listing-image-slider {
+            height: 80%;
+        }
+    }
+}
+// Add active class for list view
+.card-image-wrapper.active {
+    height: auto;
+    .slick-dotted.slick-slider {
+        margin-bottom: 0;
+    }
+}
+// .listing-card-wrapper.active {
+//     height: 306px;
+// }
+.card-image-wrapper.active {
+    width: 35%;
+    position: relative;
+}
+.card-content-wrapper.active {
+    width: 65%;
+}
+
+.vehicle-title-wrapper.active{
+    height: auto;
+    margin-bottom: 0;
+    h2,
+    .listview-visible {
+        width: 50%;
+    }
+}
+.vehicle-meta-wrapper.active {
+    height: auto;
+    margin: 0;
+    & > .w-50:first-child {
+        width: 60% !important;
+    }
+    & > .w-50:last-child {
+        width: 40% !important;
+    }
+
+    .w-50:first-child .d-flex:not(:first-child) {
+        column-gap: 1rem;
+        & span:first-child {
+            display: inline-block;
+            min-width: 100px;
+        }
+        & > span:last-child {
+            font-weight: bold !important;
+        }
+    }
+}
+.vehicle-stickers-container.listview-visible {
+    row-gap: 10px;
+    > a {
+        // transform: translateX(50px);
+        width: 70% !important;
+    }
+}
+.listview-price {
+    column-gap: 30px;
+}
+// Add active class for list view
+
+// Make vehicle card layout consistent
+.vehicle-title-wrapper {
+    @include sm {
+        height: 50px;
+    }
+    @include md {
+        height: 70px;
+    }
+    h2 {
+        line-height: 2rem;
+    }
+}
+.vehicle-meta-wrapper {
+    height: 102px;
+}
+.vehicle-price-wrapper {
+    height: 18px;
+    @include md {
+        height: 20px;
+    }
+}
+.vehicle-cta-wrapper {
+    height: 25px;
+}
+.vehicle-stickers-wrapper {
+    height: 75px;
+    @include lg {
+        height: 64px;
+    }
+}
+// Thumbnail Slider Styling
+.listing-image-slider-inner {
+    .inventory-slick-arrow.slick-prev,
+    .inventory-slick-arrow.slick-next{
+        z-index: 9;
+        background-color: transparent;
+        color: #36454f;
+        font-size: 1.1rem;
+    }
+    .slick-dots {
+        flex-wrap: wrap;
+        width: 100%;
+        bottom: -1.3rem !important;
+        padding-left: 0;
+        li {
+            width: 11px;
+            height: 11px;
+            margin-bottom: 5px;
+        }
+        li.slick-active {
+            button {
+                background-color: #6c6c6c !important;
+                border: 1px solid $Grey3 !important;
+            }
+        }
+        li button {
+            width: 11px !important;
+            height: 11px !important;
+            background-color: #dcdcdc !important;
+            border: 1px solid #dcdcdc !important;
+        }
+    }
+}
+
+// Card checkbox
+.inventory-products-bar {
+  &__compare-listing input {
+        width: 17px;
+        height: 17px;
+        appearance: none;
+        border: 2px solid $Grey2;
+        &::before {
+            content: "✔";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: none;
+        }
+
+        &:checked::before {
+            display: block;
+        }
+    }
+}

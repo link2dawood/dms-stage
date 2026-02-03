@@ -1,0 +1,106 @@
+#sidebar input[type="search"],
+.blog #sidebar input[type="search"]::placeholder {
+    text-transform: capitalize;
+    font-weight: lighter;
+    border: 2px solid #e8e8e8;
+    box-shadow: 2px 2px 3px #e8e8e8;
+    border-radius: 4px;
+    height: 50px !important;
+    background: white;
+    position: relative;
+}
+.custom-blog-post-side-heading,
+#custom-blog-post-side-heading {
+    background: #234a82;
+    color: white;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+    text-transform: uppercase;
+    font-size: $fontLG;
+    margin-bottom: 0;
+}
+ #sidebar .widget_search {
+    button[type="submit"] {
+        display: none;
+    }
+    form {
+        position: relative;
+        &::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translatey(-50%);
+            background: url(/wp-content/themes/divi-child/assets/images/blog-search.png);
+            width: 18px;
+            height: 20px;
+            opacity: .7;
+            background-size: cover;
+            background-position: center;
+            z-index: 1;
+            right: 10px;
+        }
+    }
+}
+
+ #sidebar .widget_block:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+ #sidebar .wp-block-heading {
+    background: #234a82;
+    color: white;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    margin-bottom: 0;
+}
+
+ #sidebar .widget_categories {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 2px solid #234a82;
+}
+
+ #sidebar #block-10 {
+    margin-bottom: 0;
+}
+ #sidebar .widget_categories .wp-block-categories-list  {
+    li {
+        padding: 0.7em 0 0.7em 1.6em;
+        border-bottom: 1px solid #f4f4f4;
+        position: relative;
+        &::before {
+            position: absolute;
+            content: "";
+            top: 50%;
+            transform: translatey(-50%);
+            left: 0;
+            width: 10px;
+            height: 10px;
+            background-color: black;
+            border-radius: 50px;
+            opacity: .7;
+            z-index: 1;
+            background-size: cover;
+        }
+        a {
+            font-weight: bold;
+            color: #666;
+            text-decoration: none;
+            font-size: 1.1rem;
+            text-transform: capitalize;
+        }
+    }
+}
+
+// Hide the page sidebar divider in single blog page
+.single-post .container::before {
+    display: none;
+}

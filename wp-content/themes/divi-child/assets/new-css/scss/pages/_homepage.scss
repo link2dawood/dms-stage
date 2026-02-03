@@ -1,0 +1,375 @@
+.home-hero-slider:not(.slick-initialized) {
+    max-height: 512px;
+    min-height: 247px;
+    overflow: hidden;
+}
+
+.home-hero-slider.slick-initialized {
+    overflow: visible;
+    .slick-list {
+        max-height: 512px;
+        min-height: 247px;
+        overflow: hidden;
+    }
+}
+
+// durango value autos history
+.durango-history {
+    top: 45%;
+    width: calc(100% - 50px);
+    left: 50%;
+    transform: translateX(-50%);
+    @include md {
+        width: 92%;
+        top: 25%;
+        transform: unset;
+        left: 40px;
+    }
+    @include lg {
+        top: 170px;
+        width: 50%;
+        padding-left: 30px;
+        left: unset;
+    }
+    @media (min-width: 1000px) {
+        top: 70px;
+    }
+
+    @include xxl {
+        top: 120px;
+    }
+
+    p {
+        line-height: 1.6;
+        text-align: center;
+        @include md {
+            text-align: left;
+            font-size: 1.3vw;
+        }
+        @include xl {
+            font-size: $fontLG;
+        }
+    }
+}
+.durango-history-cta {
+    a {
+        background-color: #5282B4;
+        padding-top: 12.5px;
+        padding-bottom: 12.5px;
+        @include md {
+            font-size: 1.3vw;
+        }
+        @include xl {
+            font-size: $fontLG;
+        }
+    }
+}
+// Reviews Section
+.testimonials-slider {
+    .slick-list {
+        margin-left: 0;
+        margin-right: 0;
+        @include lg {
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+    }
+}
+.testimonials-slide {
+    padding: 16px 15px 30px 10px;
+    @include md {
+    padding: 30px 15px 50px 15px;
+    }
+}
+.testimonials-rating-star {
+    color: #e6dd26;
+    &:not(:last-child) {
+        margin-right: 10px;
+    }
+}
+.testimonials-slider {
+    .slick-track {
+        display: flex;
+    }
+}
+
+.testimonials-slider .slick-prev,
+.testimonials-slider .slick-next {
+    color: #1F4A81;
+    font-size: 40px;
+}
+
+.testimonials-slider .slick-prev {
+    transform: rotate(180deg);
+}
+
+.leave-review {
+    padding: 10px 35px;
+}
+
+.maintain-loyalty-text-content {
+    background-color: #ececec;
+    padding: 30px 10px 30px 10px;
+
+    @include md {
+        padding: 30px 120px 30px 45px;
+    }
+
+    p {
+        line-height: 40px;
+    }
+}
+
+.maintain-divider {
+    height: 1px;
+    width: 30%;
+}
+.maintain-loyalty-slide-image {
+    height: 250px;
+    @include md {
+        height: 350px;
+    }
+}
+.maintain-loyalty-slide {
+    h3 {
+        background-color: #ECECEC;
+    }
+}
+.maintain-loyalty-slider-wrapper {
+    .slick-dots {
+        top: -40px;
+        left: 50%;
+        transform: translateX(-50%);
+        flex-direction: row;
+        display: block !important;
+        padding: 0;
+        width: fit-content;
+        bottom: unset !important;
+        @include md {
+            top: 50%;
+            transform: translateY(-50%);
+            flex-direction: column;
+            width: fit-content;
+            left: -40px;
+            display: flex !important;
+        }
+    }
+    .slick-dots li:not(:last-child) {
+        @include md {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.automotive-navbar-pill {
+    background-color: #3770B8;
+    color: white;
+
+    &.active {
+        background-color: #e6dd26;
+        color: black;
+        font-weight: bold;
+    }
+}
+
+// Swiper Slider
+.swiper-slide-arr-container>div::after {
+    display: none;
+}
+.swiper-slide-arr-container>div i {
+    font-size: 40px;
+}
+.swiper-button-prev {
+    transform: rotate(180deg);
+}
+.automotive-needs-thumbnail-image {
+    height: 213px ;
+}
+
+.automotive-needs-thumbnail-image img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.automotive-needs-heading {
+    color: #FFCC00;
+}
+// Tooltip hours
+.tooltip-hours {
+    z-index: 10;
+    width: auto;
+    min-width: 250px;
+    border-top: 10px solid #CF2129;
+    left: -220px;
+    top: 40px;
+    border-radius: 6px;
+    display: none;
+    &::before {
+        content: "";
+        position: absolute;
+        top: -25px;
+        right: 9px;
+        width: 5px;
+        height: 5px;
+        border-left: 15px solid transparent;
+        border-right: 15px solid transparent;
+        border-bottom: 15px solid $primaryColor;
+    }
+    &-container:hover {
+        .tooltip-hours {
+            display: block;
+        }
+    }
+}
+
+
+#home-cardflow-sec .swiper-slide-shadow-left,
+#home-cardflow-sec .swiper-slide-shadow-right {
+    background-image: none;
+    background: rgba(255, 255, 255, .7);
+}
+#home-cardflow-sec .swiper-slide {
+    width: 400px;
+    padding: 20px 23px 32px 23px;
+}
+
+@media (max-width: 450px) {
+    #home-cardflow-sec .swiper-slide {
+        width: calc(100% - 50px);
+    }
+}
+@media (max-width: 450px) {
+    .automotive-needs-link {
+        font-size: 16px !important;
+        padding: 10px !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .automotive-needs-link {
+        font-size: 14px !important;
+    }
+}
+.swiper-pagination.swiper-pagination-clickable span {
+    margin: 0 5px !important;
+    padding: unset;
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 50px;
+    transition: all .5s;
+    border: 2px solid #5282b3;
+    opacity: 1;
+}
+
+.swiper-pagination.swiper-pagination-clickable .swiper-pagination-bullet-active {
+    background-color: #5282b3;
+    border: 2px solid #5282b3;
+}
+.swiper-pagination.swiper-pagination-clickable span {
+    opacity: 1;
+}
+.help-automotive-needs-heading {
+    font-family: $helveticaFont;
+    font-weight: bold;
+    color: $primaryColor;
+    font-size: $font20;
+    @include md {
+        font-family: $segoeFont;
+        color: $Grey3;
+        font-size: $font30;
+    }
+}
+.automotive-vehicle-image {
+    z-index: 2;
+    img {
+        pointer-events: none;
+        transform: scale(1.6);
+        left: -50px;
+    }
+}
+@media (min-width: 1100px) {
+    .swiper-button-next {
+        right: 40px !important;
+    }
+
+    .swiper-button-prev {
+        left: 40px !important;
+    }
+}
+
+@media (min-width: 980px) and (max-width: 1100px) {
+    .swiper-button-next {
+        right: 25px !important;
+    }
+
+    .swiper-button-prev {
+        left: 25px !important;
+    }
+}
+.get-in-touch {
+    iframe {
+        min-height: 400px;
+        @include lg {
+            min-height: 100%;
+            height: 100%;
+        }
+    }
+}
+.quick-inquire-column {
+    textarea {
+        height: 140px;
+        resize: none;
+    }
+}
+.company-showcase-column:hover {
+    .video-floating-icon {
+        opacity: 1 !important;
+    }
+}
+.company-showcase-overlay {
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0,0,0,.6);
+    width: calc(100% - 30px);
+}
+.company-showcase-video-icon  {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+}
+#home-recent-post-scroller {
+    .xs-padding-bottom-20 {
+        padding-bottom: 0 !important;
+    }
+}
+
+// Homepage mobile popup
+.contextual-mobile-popup {
+    &-wrapper {
+        top: 0;
+        left: 0;
+        z-index: 99999;
+    }
+    &__overlay {
+        z-index: 2;
+        background-color: rgba(32, 14, 50, 0.62);
+    }
+    &__content a {
+        height: 80vh;
+        width: 100%;
+        z-index: 2;
+    }
+    &__inner-content {
+        width: 90%;
+    }
+    &__close {
+        width: 30px;
+        height: 30px;
+        top: -15px;
+        right: -15px;
+        z-index: 5;
+    }
+}

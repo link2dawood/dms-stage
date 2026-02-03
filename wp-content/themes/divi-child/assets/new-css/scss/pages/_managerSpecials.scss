@@ -1,0 +1,22 @@
+.manager-special-card {
+    border: 2px solid rgba(112, 112, 112, 0.3137254902);
+    box-shadow: 0 3px 20px rgba(112, 112, 112, 0.3137254902);
+    padding: 30px 15px 100px;
+}
+.manager-special-thumbnail {
+    height: 255px;
+    & .position-absolute {
+        background-color: #ecd95a;
+        padding: 7px 30px 7px 10px;
+        border-radius: 0 20px 20px 0;
+        top: -19.5px;
+        left: 0;
+    }
+}
+.manager-special-view-vehicle {
+    background-color: #234a82;
+    bottom: 20px;
+    left: 30px;
+    right: 30px;
+    width: calc(100% - 60px);
+}

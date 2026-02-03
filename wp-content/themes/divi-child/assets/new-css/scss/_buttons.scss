@@ -1,0 +1,58 @@
+.btn {
+    padding: 12px 30px;
+    text-transform: uppercase;
+    color: $white;
+    border-radius: 0;
+    outline: 0;
+
+    &:hover {
+        background: $btnHoverColor;
+        color: $white;
+        border-color: $btnHoverColor;
+    }
+
+    &:focus {
+        box-shadow: unset;
+    }
+
+    &-primary {
+        background-color: $primaryColor;
+        border-color: $primaryColor;
+
+        &:focus {
+            background-color: $primaryColor;
+            border-color: $primaryColor;
+        }
+        &.disabled {
+            background-color: $primaryColor;
+            border-color: $primaryColor;
+            pointer-events: none;
+            opacity: .8;
+        }
+    }
+
+    &-secondary {
+        background-color: $secondaryColor;
+        border-color: $secondaryColor;
+
+        &:focus {
+            background-color: $secondaryColor;
+            border-color: $secondaryColor
+        }
+    }
+
+    &-grey-9 {
+        background-color: $Grey9;
+        border-color: $Grey9;
+
+        &:focus {
+            background-color: $Grey9;
+            border-color: $Grey9;
+        }
+
+        &:hover {
+            color: white !important;
+        }
+    }
+
+}

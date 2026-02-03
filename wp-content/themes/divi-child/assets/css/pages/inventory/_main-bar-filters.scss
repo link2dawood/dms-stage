@@ -1,0 +1,97 @@
+$gridColumncolor : #707070;
+$filterSortBorder: #707070;
+.inventory-products-bar {
+    &__sort-filter-wrapper {
+        padding: 10px 35px 10px 10px;
+        appearance: none;
+        height: 100%;
+        border: 1px solid $filterSortBorder;
+        border-radius: 4px;
+    }
+
+    &__sort-filter-selected {
+        padding-bottom: 0;
+        color: $selectedFilterColor;
+        font-size: 15px;
+    }
+
+    &__sort-filter-form::before {
+        content: "";
+        position: absolute;
+        background: url(/wp-content/themes/divi-child/assets/images/inventory-sort-dropdown-arrow.webp);
+        top: 55%;
+        opacity: 1;
+        transform: translatey(-50%);
+        right: 15px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 13px;
+        height: 13px;
+        z-index: 99;
+		pointer-events: none;
+		user-select: none;
+    }
+
+    &__sort-filter-form {
+        padding-left: 10px;
+    }
+    @media (min-width: 980px) and (max-width:1024px) {
+        &__meta-filters {
+            width: 70%;
+        }
+    }
+    @media (min-width: 768px) {
+        &__meta-filters {
+            width: 70%;
+        }
+    }
+
+    &__sort-filter {
+        margin-left: 25px;
+
+        &-text {
+            color: #707070;
+            font-size: $fontMD;
+        }
+    }
+
+    @include mobilem {
+        &__meta-filters {
+            flex-wrap: wrap;
+        }
+
+        &__layout-changer {
+            justify-content: flex-start;
+            width: 100%;
+        }
+
+        &__sort-filter {
+            margin-left: 0;
+            width: 100%;
+        }
+    }
+
+    &__layout-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 3px;
+        grid-row-gap: 3px;
+        border: 1px solid;
+        padding: 6px;
+        border-radius: 4px;
+
+        div {
+            background: $gridColumncolor;
+            width: 13px;
+            border-radius: 4px;
+            height: 13px;
+        }
+    }
+
+    &__layout-list {
+        i {
+            font-size: 30px;
+            margin-left: 14px;
+        }
+    }
+    
+}

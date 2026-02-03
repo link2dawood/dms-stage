@@ -1,0 +1,698 @@
+// Reset Styling
+body {
+    line-height: 1;
+    overflow-x: hidden;
+}
+
+html {
+    margin-top: 0 !important;
+}
+
+// Variables
+$helveticaFont: 'Helvetica Neue', 'Roboto', 'Open Sans';
+$segoeFont: 'Segoe UI', 'Open Sans', arial;
+$sansProFont: "Source Sans Pro", 'Open Sans', arial;
+$tahomaFont: 'Tahoma', 'Open Sans', arial;
+$white: white;
+$globalShadow: 3px 3px 10px #00000029;
+$secondaryShadow: 0 3px 6px #00000029;
+$thirdShadow: 0 3px 8px #00000029;
+$globalBtnsBackground: #1f4a81;
+$primaryColor: #1f4a81;
+$history-btns-colors: #5282B4;
+$contact-headings-color: #222;
+$labelColor: #222 ;
+$contact-submit-btn-background: #01468b;
+$global-content-links-color: #408EE9;
+$dropdown-menu-links-color: #1F4A81;
+$links-hover-bottom-color: #E6DD26;
+$dropdown-menu-links-hover-color: #CF2129;
+$posts-card-hover-color: #c7081a;
+$e-global-color-1 : #393939;
+$e-global-color-2: #1f4a81;
+$e-global-color-3: #03407C;
+$e-global-color-4: #bbb;
+$e-global-color-5: #D7D7D7;
+$e-global-color-6: #707070;
+$e-global-color-6-light: #70707050 ;
+$e-global-color-7: #b7b7b7 ;
+$e-global-color-8: #234a82 ;
+$e-global-color-9: #01468b;
+$font-weight-lg: bold;
+$font-weight-md: normal;
+$font-weight-sm: light;
+$label-font-size-lg: 15px;
+$input-padding-top-lg: 7px;
+$input-padding-right-lg: 15px;
+$input-padding-bottom-lg: 7px;
+$input-padding-left-lg: 15px;
+$input-font-italic: italic;
+$input-font-normal: normal;
+$transitionSpeed : .3s ;
+$fontLG : 30px ;
+$fontMD : 18px ;
+$fontSMMD : 16px ;
+$breadCrumbsFont : 15px ;
+$fontSM : 14px ;
+$fontXSSM : 12px ;
+$borderRadius: 4px ;
+
+// Media Queries Mixins
+@mixin desktopLg {
+    @media (min-width: 1200px) {
+        @content;
+    }
+}
+@mixin desktopMd {
+    @media (min-width: 1024px) {
+        @content;
+    }
+}
+@mixin desktop {
+    @media (min-width: 980px) {
+        @content;
+    }
+}
+@mixin tabletMd {
+    @media (min-width: 768px) {
+        @content;
+    }
+}
+@mixin tablet {
+    @media (min-width: 575px) {
+        @content;
+    }
+}
+@mixin mobile {
+    @media (min-width: 300px) {
+        @content;
+    }
+}
+@mixin desktopLGm {
+    @media (max-width: 1200px) {
+        @content;
+    }
+}
+@mixin desktopm{
+    @media (max-width: 980px) {
+        @content;
+    }
+}
+@mixin tabletMdm {
+    @media (max-width: 768px) {
+        @content;
+    }
+}
+@mixin tabletm {
+    @media (max-width: 575px) {
+        @content;
+    }
+}
+@mixin mobilem {
+    @media (max-width: 300px) {
+        @content;
+    }
+}
+
+// Utility classes
+// flex classes
+.d{
+    &_none {
+        display: none;
+    }
+    &_block {
+        display: block;
+    }
+    &_grid {
+        display: grid;
+    }
+    &_inline-block {
+        display: inline-block;
+    }
+    &_inline {
+        display: inline;
+    }
+    &_flex {
+        display: flex;
+        &__wrap {
+            flex-wrap: wrap;
+        }
+        &__justify-center {
+            justify-content: center;
+        }
+        &_justify-start {
+            justify-content: flex-start;
+        }
+        &__justify-between {
+            justify-content: space-between;
+        }
+        &__justify-around {
+            justify-content: space-around;
+        }
+        &__justify-end {
+            justify-content: flex-end;
+        }
+        &__align-center {
+            align-items: center;
+        }
+        &__align-end {
+            align-items: flex-end;
+        }
+        &__column {
+            flex-direction: column;
+        }
+    }
+    @include mobile {
+        &_sm_none {
+            display: none;
+        }
+        &_sm_block {
+            display: block;
+        }
+        &_sm_flex {
+            display: flex;
+        }
+    }
+    @include tablet {
+        &_sm_md_none {
+            display: none;
+        }
+        &_sm_md_block {
+            display: block;
+        }
+        &_sm_md_flex {
+         display: flex;   
+        }
+    }
+    @include tabletMd {
+        &_md_none {
+            display: none;
+        }
+        &_md_block {
+            display: block;
+        }
+        &_md_flex {
+         display: flex;   
+        }
+    }
+    @include desktop {
+        &_lg_none {
+            display: none;
+        }
+        &_lg_block {
+            display: block;
+        }
+        &_lg_flex {
+         display: flex;   
+        }
+    }
+    @include desktopLg {
+        &_xl_lg_none {
+            display: none;
+        }
+        &_xl_lg_block {
+            display: block;
+        }
+        &_xl_lg_flex {
+         display: flex;   
+        }
+    }
+}
+// position classes
+.position {
+    &_relative {
+        position: relative;
+    }
+    &_absolute {
+        position: absolute;
+    }
+    &_sticky {
+        position: sticky;
+    }
+    &_fixed {
+        position: fixed;
+    }
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.border_circle {
+    border-radius: 50% !important;
+}
+.overflow {
+    &_y {
+       overflow-y: scroll; 
+    }
+    &_x {
+        overflow-x: scroll ;
+    }
+}
+
+.bg {
+    &_white {
+        background-color: $white;
+    }
+}
+.color {
+    &_black {
+        color: black;
+    }
+    &_white {
+        color: white;
+    }
+}
+.list_style {
+    &_none {
+        list-style: none;
+    }
+}
+.text {
+    &_underline{
+        text-decoration: underline;
+    }
+    &_none {
+        text-decoration: unset;
+    }
+}
+
+.background_size_cover {
+    background-size: cover !important;
+}
+.background_position_center {
+    background-position: center !important;
+}
+.object_fit_cover {
+    object-fit: cover !important;
+}
+.no_background_repeat {
+    background-repeat: no-repeat;
+}
+.no_appearance{
+    appearance: none;
+}
+.company-marketing-email {
+    word-break: break-all;
+    font-size: 1rem !important;
+    @include desktop {
+        font-size: 0.9vw !important;
+    }
+}
+
+// Global Stylings
+#page-container {
+    width: 100% !important;
+    max-width: 1600px !important;
+    margin: 0 auto !important;
+}
+
+#page-container #et-boc {
+    width: 100%;
+}
+html.js {
+    margin-top: unset !important;
+}
+body::before {
+    display: none;
+}
+.global-slick-slider {
+    display: none;
+    &.slick-initialized {
+        display: block;
+    }
+}
+.font_segoe{
+    font-family: $segoeFont;
+}
+.font_helvetica {
+    font-family: $helveticaFont;
+}
+.font_sans {
+    font-family: $sansProFont;
+}
+.text_right {
+    text-align: right;
+}
+.text_center {
+    text-align: center;
+}
+.text_left {
+    text-align: left;
+}
+.global_heading2{
+    h2 {
+        color: #373737 ;
+        font-family: $segoeFont;
+    }
+}
+.global-section__heading {
+    h2 {
+        padding-bottom: 0;
+    }
+}
+
+.height_auto{
+    height: auto;
+}
+.h_100 {
+    height: 100%;
+}
+.global_shadow {
+    box-shadow: $globalShadow;
+}
+
+// Global Spacing Styling
+.w_auto {
+    width: auto;
+}
+.m {
+    &_0{
+        margin: 0 !important;
+    }
+    &r_0{
+        margin-right: 0 !important;
+    }
+    &l_0 {
+        margin-left: 0 !important;
+    }
+    &t_0{
+        margin-top: 0 !important;
+    }
+    &b_0{
+        margin-bottom: 0 !important;
+    }
+}
+.p {
+    &_0 {
+        padding: 0;
+    }
+    &r_0{
+        padding-right: 0 !important;
+    }
+    &l_0 {
+        padding-left: 0 !important;
+    }
+    &t_0{
+        padding-top: 0 !important;
+    }
+    &b_0{
+        padding-bottom: 0 !important;
+    }
+}
+
+// Global Sizing Styling
+.font {
+    &_bold {
+        font-weight: bold;
+    }
+    &_normal {
+        font-weight: 500;
+    }
+    &_bold {
+        h2 {
+            font-weight: bold;
+        }
+    }
+    &_size_sm {
+        h2 {
+            font-size: 24px !important;
+        }
+    }
+    @include desktop {
+        &_size_lg{
+            h2{
+                font-size: 30px !important;
+            }
+        }
+    }
+}
+.text {
+    &_capitalize {
+        text-transform: capitalize;
+    }
+    &_uppercase{
+        text-transform: uppercase;
+    }
+    &_lowercase{
+        text-transform: lowercase;
+    }
+}
+
+// Header Top Styling
+#menu-menu-header-top {
+    .sub-menu {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+// Header Main Styling
+.search-box-recent-searches:nth-child(2) a {
+    font-weight: bold;
+}
+
+// Footer Top Styling
+footer .et_pb_row.et_pb_row_2_tb_footer.et_pb_row_4col .et_pb_column.et_pb_column_1_4 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+  footer .et_pb_row.et_pb_row_2_tb_footer.et_pb_row_4col .et_pb_column.et_pb_column_1_4 .et_pb_module h4 {
+    padding: 0;
+}
+
+  footer .et_pb_row.et_pb_row_2_tb_footer.et_pb_row_4col .et_pb_column.et_pb_column_1_4 .et_pb_module.et_pb_text_8_tb_footer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+  footer .et_pb_row.et_pb_row_2_tb_footer.et_pb_row_4col .et_pb_column.et_pb_column_1_4 .et_pb_module h4 span {
+    display: flex;
+    font-size: 20px;
+    font-family: var(--segoe-font);
+    align-items: center;
+}
+
+@media (max-width: 980px) {
+      footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column.et_pb_column_9_tb_footer .et_pb_module.et_pb_text.et_pb_text_8_tb_footer {
+        justify-content: flex-start;
+    }
+}
+
+/* footer top padding */
+
+  footer .et_pb_section.et_pb_section_0_tb_footer {
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+  footer .et_pb_section.et_pb_section_0_tb_footer .et_pb_row.et_pb_row_4_tb_footer {
+    padding: 0;
+}
+
+// Footer Middle Styling
+footer .et_pb_section.et_pb_section_0_tb_footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column.et_pb_column_7_tb_footer .et_pb_text_inner p,
+footer .et_pb_section.et_pb_section_0_tb_footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column.et_pb_column_8_tb_footer .et_pb_text_inner p {
+  font-size: 18px;
+}
+
+
+/* remove extra margin in text in small screens in footer middle section */
+
+footer .et_pb_section.et_pb_section_0_tb_footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column {
+  margin-bottom: 0;
+}
+
+@media (min-width: 425px) and (max-width: 980px) {
+    footer .et_pb_section.et_pb_section_0_tb_footer .et_pb_row.et_pb_row_2_tb_footer {
+      grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+/* remove space in footer middle section */
+
+@media (min-width: 425px) and (max-width: 980px) {
+    footer .et_pb_row.et_pb_row_2_tb_footer {
+      grid-row-gap: unset;
+  }
+
+    footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column.et_pb_column_6_tb_footer,
+    footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column.et_pb_column_7_tb_footer {
+      margin-bottom: 20px !important;
+  }
+}
+
+
+/* add spacing under footer titles */
+
+footer .et_pb_row.et_pb_row_0_tb_footer .et_pb_column .et_pb_text_inner h3 {
+  margin-bottom: 30px;
+}
+
+@media (max-width: 980px) {
+    footer .et_pb_row.et_pb_row_0_tb_footer .et_pb_column .et_pb_text_inner h3 {
+      margin-bottom: 10px;
+  }
+
+    footer .et_pb_row.et_pb_row_0_tb_footer .et_pb_column .et_pb_text_inner {
+      margin-bottom: 20px;
+  }
+}
+
+
+/*  remove extra space in footer middle*/
+
+@media (max-width: 450px) {
+    footer .et_pb_row.et_pb_row_2_tb_footer {
+      grid-row-gap: unset;
+  }
+
+    footer .et_pb_row.et_pb_row_2_tb_footer .et_pb_column:not(:last-child) {
+      margin-bottom: 20px !important;
+  }
+}
+
+// Footer Bottom Styling
+footer .custom-footer-bottom {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 3fr;
+}
+
+.et_pb_module.et_pb_divider.et_pb_divider_1_tb_footer.et_pb_divider_position_.et_pb_space {
+    height: 1px;
+}
+
+@media (max-width: 980px) {
+      footer .custom-footer-bottom {
+        grid-template-columns: 1fr;
+        grid-row-gap: 10px;
+    }
+}
+
+  footer .custom-footer-bottom .et_pb_column.et_pb_css_mix_blend_mode_passthrough {
+    width: 100%;
+}
+
+  footer .custom-footer-bottom .et_pb_column.et_pb_css_mix_blend_mode_passthrough .et_pb_module ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+  footer .custom-footer-bottom .et_pb_column.et_pb_css_mix_blend_mode_passthrough .et_pb_module ul a {
+    color: white;
+}
+
+@media (max-width: 980px) {
+      footer .custom-footer-bottom .et_pb_column.et_pb_css_mix_blend_mode_passthrough .et_pb_module ul {
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 450px) {
+      footer .custom-footer-bottom .et_pb_column.et_pb_css_mix_blend_mode_passthrough .et_pb_module ul {
+        justify-content: flex-start;
+    }
+
+      footer .custom-footer-bottom .et_pb_column.et_pb_css_mix_blend_mode_passthrough .et_pb_module ul li {
+        margin-right: 20px;
+    }
+}
+
+// Footer Divider Styling
+footer .et_pb_row.et_pb_row_2_tb_footer {
+    padding: 24px 0 !important;
+}
+
+   footer .et_pb_row.et_pb_row_1_tb_footer {
+    padding: 0;
+}
+
+   footer .et_pb_row.et_pb_row_1_tb_footer .et_pb_module {
+    height: 2px !important;
+    padding: 0;
+}
+
+   footer .et_pb_row.et_pb_row_3_tb_footer {
+    padding: 0 !important;
+}
+
+// Right Blocks Styling
+.global-side-block:not(:last-child) {
+    margin-bottom: 25px;
+}
+
+@import './globals/official-content/banner';
+@import './globals/official-content/image-banner';
+@import './globals/official-content/content';
+@import './globals/official-content/content-elems';
+@import './pages/our-services/services-grid';
+@import './pages/inventory/inventory';
+@import './pages/inventory/filters';
+@import './pages/inventory/selected-filters';
+@import './pages/inventory/main-bar-filters';
+@import './pages/inventory/listing-status-ball';
+@import './pages/detail-department/auto-details';
+@import './pages/detail-department/hours';
+@import './pages/detail-department/services-popup';
+@import './beyond-value/beyond-value-listing/contextual-popup';
+@import './pages/auto-parts-durango-co/contact-form';
+@import './pages/trade-in-car/trade-in-car';
+@import './pages/trade-in-car/indemand-vehicles';
+@import './pages/tri-pac-maintenance/tri-pac';
+@import './pages/aul-warranty/aul-warranty';
+@import './pages/car-service/car-service';
+@import './pages/car-service/services-grid';
+@import './pages/car-service/popup';
+@import './pages/car-loans/multistep-form';
+@import './pages/car-loans/steps-counter';
+@import './pages/coupons/header';
+@import './pages/community-support/community-support';
+@import './pages/about-us/philosophy';
+@import './pages/about-us/grid';
+@import './pages/about-us/sidebar/sidebar';
+@import './pages/reviews/companies';
+@import './pages/reviews/reviews';
+@import './pages/contact-us/contact-grid';
+@import './pages/contact-us/contact';
+@import './pages/schedule-service/schedule-service';
+@import './pages/schedule-service/steps';
+@import './pages/schedule-service/rightbat';
+@import './globals/popup/popup';
+@import './globals/popup/financing-popup';
+@import './globals/popup/get-newsletter';
+@import './globals/popup/global-form';
+@import './globals/popup/testdrive';
+@import './globals/popup/menu-iframe';
+@import './globals/post-scroller';
+@import './globals/slick-slider/slick';
+@import './beyond-value/common/recommend-filters';
+@import './beyond-value/common/slider';
+@import './beyond-value/common/slider-arrows';
+@import './beyond-value/common/overview';
+@import './beyond-value/common/slides-counter';
+@import './beyond-value/common/header';
+@import './beyond-value/common/cta-popups';
+@import './beyond-value/contextual-popup/addfeature';
+@import './beyond-value/contextual-popup/unique-vehicle';
+@import './pages/inventory/filters';
+@import './pages/inventory/vin-popup';
+@import './pages/inventory/no-listings';
+@import './pages/inventory/loader';
+@import './pages/inventory/comparebar/compare';
+
+.custom-lead-capture-form {
+    label {
+        display: inline-block;
+        margin-bottom: 5px;
+        font-weight: $font-weight-lg;
+        font-size: $label-font-size-lg;
+        color: $labelColor;
+        font-family: $sansProFont;
+    }
+}

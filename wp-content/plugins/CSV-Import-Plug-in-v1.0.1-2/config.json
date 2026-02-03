@@ -1,0 +1,11 @@
+{
+    "sftp_server": "45.77.6.66",
+    "sftp_username": "csv-file",
+    "sftp_password": "6ktx77hZns",
+    "remote_file_path": "\/public_html\/latest-inventory.csv",
+    "email_recipients": "bernardo.monge@progreza.com\r\njunaid.asghar@progreza.com\r\nsusana.bermudez@progreza.com",
+    "email_subject": "CSV Import Complete",
+    "email_message": "CSV import process completed successfully.",
+    "upload_location": "csv-imports",
+    "log_enabled": 1
+}

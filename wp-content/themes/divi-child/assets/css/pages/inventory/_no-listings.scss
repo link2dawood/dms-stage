@@ -1,0 +1,21 @@
+.no-listings-found {
+    margin-top: 2.5rem;
+    background-color: transparent;
+    border: 2px solid $primaryColor;
+    height: 30vh;
+    padding: 2em;
+    @include tabletMd {
+        grid-column: 1 / span 3;
+    }
+    h2 {
+        line-height: 2rem;
+    }
+}
+.relatedlistingsHeading {
+    grid-column: 1 / span 3;
+    margin-top: 20px;
+
+}
+.relatedlistingslink {
+    color: $primaryColor;
+}

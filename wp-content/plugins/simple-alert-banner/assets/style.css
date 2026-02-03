@@ -1,0 +1,161 @@
+/* Admin Toggle Switch */
+.sab-toggle {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.sab-toggle input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.sab-toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 34px;
+}
+
+.sab-toggle-slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+.sab-toggle input:checked + .sab-toggle-slider {
+    background-color: #2271b1;
+}
+
+.sab-toggle input:checked + .sab-toggle-slider:before {
+    transform: translateX(26px);
+}
+
+.sab-toggle-label {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 14px;
+    color: #2271b1;
+    vertical-align: middle;
+}
+
+.sab-toggle input:checked ~ .sab-toggle-label {
+    color: #2271b1;
+}
+
+.sab-toggle input:not(:checked) ~ .sab-toggle-label {
+    color: #666;
+}
+
+.sab-banner {
+    width: 100%;
+    padding: 12px 20px;
+    text-align: center;
+    position: relative;
+    font-size: clamp(14px, 2vw, 18px);
+    font-weight: 500;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    word-wrap: break-word;
+    line-height: 1.4;
+}
+
+.sab-message {
+    flex: 1;
+    padding-right: 40px;
+}
+
+.sab-message a {
+    color: inherit !important;
+    text-decoration: underline;
+    transition: opacity 0.2s ease;
+}
+
+.sab-message a:hover {
+    opacity: 0.9;
+    text-decoration: underline;
+}
+
+.sab-close {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 24px;
+    opacity: .8;
+    line-height: 1;
+    padding: 5px;
+    min-width: 30px;
+    text-align: center;
+    transition: opacity 0.2s ease;
+}
+
+.sab-close:hover { 
+    opacity: 1; 
+}
+
+/* Mobile specific styles */
+@media (max-width: 768px) {
+    .sab-banner {
+        padding: 10px 15px;
+        font-size: 14px;
+        min-height: 45px;
+    }
+    
+    .sab-close {
+        right: 10px;
+        font-size: 22px;
+        min-width: 25px;
+    }
+    
+    .sab-message {
+        padding-right: 35px;
+    }
+    
+}
+
+/* Desktop/Tablet specific styles */
+@media (min-width: 769px) {
+    .sab-banner {
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+    .sab-banner {
+        padding: 8px 12px;
+        font-size: 13px;
+        min-height: 40px;
+    }
+    
+    .sab-close {
+        right: 8px;
+        font-size: 20px;
+        min-width: 22px;
+    }
+    
+    .sab-message {
+        padding-right: 30px;
+    }
+}

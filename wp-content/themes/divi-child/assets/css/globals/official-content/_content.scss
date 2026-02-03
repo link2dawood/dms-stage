@@ -1,0 +1,70 @@
+$spacingDifferInColumns : 30px ;
+$spacingDifferInTradeColumns: 40px;
+.global-content-row {
+    padding: 25px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 30px;
+    column-gap: $spacingDifferInColumns;
+    @include tabletMd {
+        padding: 40px ;
+        row-gap: 0;
+    }
+    @include desktop {
+        padding: 40px 60px ;
+    }
+}
+.global-content-column-first {
+    width: 100% !important;
+    @include tabletMd {
+        width: calc(70% - $spacingDifferInColumns) !important;
+    }
+    @include desktop{
+        width: calc(80% - $spacingDifferInColumns) !important;
+    }
+}
+.global-content-columns-second {
+    width: 100% !important;
+    padding-left: 0 !important;
+    @include tabletMd {
+        width: 30% !important;
+    }
+    @include desktop{
+        width: 20% !important;
+    }
+}
+
+@include tabletMd {
+    .trade-in-car-row {
+        .global-content-column-first {
+            width: calc(50% - $spacingDifferInTradeColumns) !important;
+        }
+
+        .global-content-columns-second {
+            width: 50% !important;
+        }
+    }
+}
+
+@include desktop {
+    .trade-in-car-row {
+        .global-content-column-first {
+            width: calc(60% - $spacingDifferInTradeColumns) !important;
+        }
+
+        .global-content-columns-second {
+            width: 40% !important;
+        }
+    }
+}
+
+.trade-in-car-row {
+    padding: 25px 20px;
+    @include tabletMd {
+        padding: 40px;
+    }
+    @include desktop {
+        padding: 40px 60px;
+    }
+}

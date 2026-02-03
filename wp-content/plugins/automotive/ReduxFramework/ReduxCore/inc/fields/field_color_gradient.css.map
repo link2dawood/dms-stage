@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "field_color_gradient.css",
+	"sources": [
+		"color_gradient/field_color_gradient.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AACI,+BAD2B,CAC3B,cAAc,AAAC,CACX,OAAO,CAAE,YAAY,CACxB,AAHL,AAII,+BAJ2B,CAI3B,QAAQ,AAAC,CACL,YAAY,CAAE,IAAI,CACrB,AAGL,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK,EAC/B,AACI,+BAD2B,CAC3B,cAAc,AAAC,CACX,OAAO,CAAE,KAAK,CACd,UAAU,CAAE,iBAAiB,CAChC"
+}

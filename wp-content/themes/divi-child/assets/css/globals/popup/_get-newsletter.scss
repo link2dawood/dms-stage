@@ -1,0 +1,31 @@
+
+.get-newsletter-popup-wrapper form input {
+    border: 1px solid #bbb !important;
+    color: #444 !important;
+    padding: var(--input-padding-top-lg) var(--input-padding-right-lg) var(--input-padding-bottom-lg) var(--input-padding-left-lg) !important;
+    font-size: var(--label-font-size-lg);
+    font-style: var(--input-font-italic);
+    text-align: left;
+    width: 100%;
+}
+
+.get-newsletter-popup-wrapper form .et_contact_bottom_container {
+    float: unset;
+}
+
+.get-newsletter-popup-wrapper form .et_pb_contact_field {
+    padding-left: 0;
+}
+
+.get-newsletter-popup-wrapper form button {
+    width: 100%;
+    display: inline-block;
+    background: var(--contact-submit-btn-background) !important;
+    border: unset;
+    border-radius: 0;
+    padding: 7px 30px;
+    color: white;
+    text-transform: uppercase;
+    font-size: var(--label-font-size-lg);
+    margin: 10px 0 0 0 !important;
+}

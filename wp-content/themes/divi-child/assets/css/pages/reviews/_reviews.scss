@@ -1,0 +1,117 @@
+.review {
+    &__container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+        @include tablet {
+            grid-template-columns: 1fr 1fr;
+        }
+        #map-plug {
+            display: none;
+        }
+    }
+    &__container &-item {
+        padding: 20px;
+        border-radius: 6px;
+        box-shadow: $secondaryShadow;
+    }
+
+    &-meta {
+        font-size: 1.2rem;
+    }
+
+    &-stars {
+        margin-bottom: 10px;
+    }
+
+    &-stars ul {
+        display: flex;
+        align-items: center;
+
+        li:not(:last-child) {
+            margin-right: 5px;
+        }
+
+        i {
+            color: gold;
+        }
+    }
+
+    &-date {
+        font-size: 0.9rem;
+    }
+}
+.reviews__banner {
+    margin-bottom: 40px;
+}
+.reviews__banner-inner {
+    flex-direction: column;
+    background-color: #3174f1;
+    border: 1px solid #d6d6d6;
+    min-height: 60px;
+    @include tablet {
+        flex-direction: row;
+    }
+    @include tabletm {
+        padding: 20px 10px;
+    }
+    h3 {
+        text-align: center;
+        @include tabletm {
+            font-size: 1.1rem;
+            margin-bottom: 20px !important;
+        }
+    }
+}
+
+.reviews__btn {
+    padding: 7px 30px;
+    border: none;
+    background-color: transparent;
+    &:hover {
+        background-color: transparent;
+    }
+}
+.reviews__btn-primary {
+    background-color: #ffd800;
+    border: 2px solid #ffd800;
+}
+.reviews__btn-secondary  {
+    border: 2px solid white;
+}
+.load__reviews {
+    margin-top: 65px;
+    a {
+        padding: 15px;
+        color: #8d8d8d;
+        background-color: #e9e9e9;
+        border: 1px solid #d6d6d6;
+    }
+}
+.global_popup_wrapper .load__reviews {
+    max-width: 60%;
+    margin: 40px auto 0;
+    a:hover {
+        background-color: #cf212a;
+        color: white;
+    }
+}
+// full review popup
+.global_popup_wrapper .review-text,
+.global_popup_wrapper .review-stars {
+    display: none;
+}
+.global_popup_wrapper {
+    .review__top-stars {
+        display: block;
+    }
+}
+.global_popup_wrapper .review-text-full {
+    display: block;
+    font-weight: bold;
+}
+.global_popup_wrapper {
+    .review-date {
+        margin-top: 30px;
+    }
+}

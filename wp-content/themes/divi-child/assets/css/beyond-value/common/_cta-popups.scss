@@ -1,0 +1,94 @@
+.apply-for-financing-content-wrapper .aff-form-field input {
+    padding: 15px;
+}
+
+.apply-for-financing-content-wrapper .aff-form-submit-field input {
+    padding: 15px 30px !important;
+    font-style: normal;
+    margin: 10px 0 0 0 !important;
+}
+.contact-fancy-box-close-icon {
+    width: 27px;
+    height: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid var(--global-btns-background);
+}
+
+.contact-fancy-box-close-icon i {
+    color: var(--global-btns-background);
+    font-size: 16px;
+}
+
+.contact-fancy-box-field-wrapper label {
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: var(--helvetica-font);
+    margin-bottom: 5px;
+}
+
+.contact-fancy-box-input-field input,
+.contact-fancy-box-input-field textarea {
+    font-family: var(--helvetica-font);
+    height: 42px;
+    padding: 8px 16px;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 100%;
+    border: 1px solid #646464 !important;
+    border-radius: 4px;
+    font-style: normal;
+}
+
+.contact-fancy-box-input-field input::placeholder,
+.contact-fancy-box-input-field textarea::placeholder {
+    color: #999999 !important;
+}
+
+
+.contact-fancy-box-input-field input {
+    min-width: 270px;
+}
+
+@media (max-width: 575px) {
+    .contact-fancy-box-input-field input {
+        min-width: 200px;
+    }
+}
+
+.contact-fancy-box-input-field input:hover,
+.contact-fancy-box-input-field textarea:hover {
+    border: 1px solid #1f4a81 !important;
+}
+
+.contact-fancy-box-input-field textarea {
+    height: 100px;
+    resize: none;
+}
+
+.contact-fancy-box-input-field {
+    margin-bottom: 20px;
+}
+
+.contact-fancy-box-submit-field-wrapper input[type="submit"] {
+    display: block;
+    width: 100%;
+    background: #1f4a81;
+    border: 1px solid #1f4a81;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px 23px !important;
+    border-radius: 10px;
+    font-family: var(--helvetica-font);
+    letter-spacing: 1px;
+    font-style: normal;
+}
+
+.contact-fancy-box-submit-field-wrapper input[type="submit"]:hover {
+    background: transparent;
+    color: #1f4a81;
+}

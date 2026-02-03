@@ -1,0 +1,41 @@
+.contact {
+    &__row {
+        grid-template-columns: 1fr;
+        row-gap: 30px;
+
+        @include desktop {
+            grid-template-columns: 1fr 1fr;
+            column-gap: 30px;
+        }
+    }
+
+    &-form-group.dashed-border {
+        padding-top: 16px;
+        margin: 20px 0;
+        border-top: 1px dashed #cecece;
+    }
+
+    &__ways {
+        .wpcf7-form-control {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            > span {
+                label {
+                    display: flex;
+                    column-gap: 10px;
+                }
+            }
+        }
+    }
+    &-us__submit {
+        input {
+            padding: 7px 30px !important;
+            background-color: #01468b !important;
+            font-style: normal;
+            color: white !important;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    }
+}

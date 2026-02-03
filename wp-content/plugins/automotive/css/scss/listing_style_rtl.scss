@@ -1,0 +1,189 @@
+// compileCompressed: ../$1.css
+$left: right;
+$right: left;
+
+@import "listing_style";
+
+// some manual RTL styling
+.rtl {
+  .controls .right-arrow .fa-angle-right:before, .pagination_container .pagination .next .fa-angle-right:before {
+    content: "\f104";
+  }
+
+  .controls .left-arrow .fa-angle-left:before, .pagination_container .pagination .previous .fa-angle-left:before {
+    content: "\f105";
+  }
+
+  .arrow3, .arrow2 {
+    a {
+      &.bx-prev {
+        background-position: -20px 8px;
+      }
+
+      &.bx-next {
+        background-position: 9px 8px;
+      }
+    }
+  }
+
+  .angled_badge {
+    span {
+      -webkit-transform: rotate(-45deg) translate(0, -25%);
+      -moz-transform: rotate(-45deg) translate(0, -25%);
+      -ms-transform: rotate(-45deg) translate(0, -25%);
+      -o-transform: rotate(-45deg) translate(0, -25%);
+      transform: rotate(-45deg) translate(0, -25%);
+
+      &:before {
+        border-width: 100px 100px 0 0;
+      }
+    }
+  }
+
+  .listing-slider {
+    .angled_badge {
+      span {
+        -webkit-transform: rotate(45deg) translate(0, -25%);
+        -moz-transform: rotate(45deg) translate(0, -25%);
+        -ms-transform: rotate(45deg) translate(0, -25%);
+        -o-transform: rotate(45deg) translate(0, -25%);
+        transform: rotate(45deg) translate(0, -25%);
+      }
+
+      &:before {
+        border-width: 0 100px 100px 0;
+      }
+    }
+  }
+
+  .content-nav ul li {
+    &.next1:before {
+      content: "\f137";
+    }
+
+    &.prev1:before {
+      content: "\f138";
+    }
+  }
+}
+
+
+body.rtl .elementor-widget-animated_numbers i,
+body.rtl .animate_number {
+  display: block;
+  font-size: 48px;
+  line-height: 52px;
+  text-align: center;
+}
+
+body.rtl .search_inventory_box .multiple_dropdowns .my-dropdown {
+  width: 39.5%;
+}
+
+.rtl .inventory .title {
+  text-align: right;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+  .rtl div.inventory .inventory .title {
+    right: 15px;
+    max-width: 425px;
+  }
+
+  .rtl div.inventory .options-primary {
+    right: 25px;
+  }
+
+  .rtl .car_listings div.inventory .price {
+    text-align: right;
+  }
+
+  .rtl div.inventory .tax {
+    top: -12px;
+    right: 40px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  .rtl div.inventory .inventory .title {
+    right: 15px;
+  }
+
+  .rtl div.inventory .options-primary {
+    right: 48px;
+    margin-bottom: 40px;
+  }
+
+  .rtl .car_listings div.inventory .price {
+    right: 48px;
+    left: auto;
+    bottom: 22px;
+    top: auto;
+    right: 50px;
+    margin: 3px 0 40px 0;
+
+    text-align: right;
+  }
+
+  .rtl div.inventory .tax {
+    right: 0;
+    top: 0;
+  }
+
+  .rtl .car_listings div.inventory .carfax {
+    right: auto;
+    left: 20px;
+  }
+}
+
+.rtl footer h4, .rtl .footer-contact ul, .rtl .copyright-wrap.footer_area {
+  text-align: right;
+}
+
+.rtl .ts-dropdown [data-selectable].option {
+  text-align: right;
+}
+
+.rtl .plugin-checkbox_options .option input {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+.rtl .inventory-heading, .rtl #secondary-banner .title-column {
+  text-align: right;
+}
+
+.rtl .content-nav ul, .rtl .single-listing-tabs .nav {
+  text-align: right;
+}
+
+.rtl .elementor-widget-text-editor, .rtl .testimonial blockquote.style1, body.rtl ul.shortcode li, .rtl .blog-list div[class*="col-"], .rtl .team {
+  text-align: right;
+}
+
+body.rtl ul.shortcode li .fa-angle-right::before {
+  content: "\f104";
+}
+
+.rtl .portfolio-container .list_faq, .rtl .portfolioContainer .box, .rtl .portfolio_content  {
+  text-align: right;
+}
+
+@media (max-width: 767px) {
+  .rtl .navbar-navigation .mobile-menu-main-menu-container, .rtl header .bottom-header .navbar-default .navbar-brand .logo .primary_text, .rtl header .bottom-header .navbar-default .navbar-brand .logo .secondary_text {
+    text-align: right;
+  }
+
+  .rtl header .bottom-header .navbar-nav {
+    padding-right: 0;
+  }
+
+  .rtl .navbar-toggler {
+    left: 15px;
+    right: initial;
+  }
+
+  .rtl header .bottom-header .navbar-default .navbar-brand {
+    width: 100%;
+  }
+}

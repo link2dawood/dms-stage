@@ -1,0 +1,9 @@
+.filter_pills {
+    padding: 4px 15px;
+    background-color: $e-global-color-5;
+    color: $e-global-color-6;
+    &:hover {
+        background-color: #B8091B;
+        color: white;
+    }
+}

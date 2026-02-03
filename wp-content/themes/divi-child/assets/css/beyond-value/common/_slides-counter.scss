@@ -1,0 +1,11 @@
+.slider-counter {
+    &-wrapper {
+        bottom: 0;
+        right: 0;
+        border-radius: 6px 0 0 0;
+        padding: 7px 5px;   
+    }
+    &-divider {
+        margin: 0 5px ;
+    }
+}

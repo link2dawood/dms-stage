@@ -1,0 +1,216 @@
+$popCloseBackground : #1f4a81;
+$closeBorderColor : #1f4a81;
+$closeIconColor: #1f4a81;
+$closeIconHoverColor: #1f4a81;
+$closeIconSize: 18px;
+$popupOverlayColor: #32323175;
+$popupZindex : 99990;
+$popupWrapperPadding: 20px 30px;
+
+.global_popup_wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 1600px;
+    left: 50%;
+    transform: translatex(-50%);
+    height: 100%;
+    z-index: $popupZindex;
+    background: $popupOverlayColor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    &_overlay {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+
+    &_close {
+        top: 20px;
+        right: 30px;
+        width: 27px;
+        height: 27px;
+        border: 1px solid $closeBorderColor !important;
+        i {
+            font-size: $closeIconSize;
+        }
+        &:hover {
+            background: $closeIconHoverColor !important;
+
+            i {
+                color: white;
+            }
+        }
+    }
+
+    &_content-wrapper {
+        z-index: 2;
+        position: relative;
+        background: $white;
+        padding: $popupWrapperPadding;
+        border-radius: 20px;
+        box-shadow: $secondaryShadow;
+        max-width: 1200px;
+        max-height: 90vh;
+    }
+
+    &_content-wrapper::-webkit-scrollbar {
+        display: none;
+    }
+}
+// sidebar form
+.sidebar {
+    &__form {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        max-width: 1600px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: $popupOverlayColor;
+        z-index: $popupZindex;
+        height: 100vh;
+        overflow-x: hidden;
+        .wpcf7-response-output {
+            display: none;
+        }
+    }
+    &__overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    &__content {
+        background-color: white;
+        width: 100%;
+        max-width: 500px;
+        transition: all .3s;
+        height: 100%;
+        overflow-y: scroll;
+        margin-left: auto;
+        position: absolute;
+        right: -100%;
+    }
+
+    &__top {
+        height: 150px;
+        background-color: #b70d0d;
+    }
+    &__success {
+        background-color: #9dbde6;
+        *:not(a) {
+            color: black;
+        }
+
+    }
+
+    &__top-half {
+        .sidebar__top-img {
+            width: 30%;
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+    &__top-full {
+        .sidebar__top-img {
+            width: 100%;
+        }
+        
+    }
+
+    &__top-content {
+        padding: 15px;
+        width: 70%;
+
+        strong {
+            margin-bottom: 8px;
+            @include tabletMd {
+                margin-bottom: 15px;
+            }
+        }
+
+        a {
+            &:hover {
+                color: white;
+                text-decoration: underline;
+            }
+        }
+    }
+
+    &__form-content {
+        padding: 10px 30px;
+    }
+
+    &__form-title {
+        margin-bottom: 30px;
+    }
+
+    &__form-subheading {
+        color: #707070;
+        margin-bottom: 30px;
+    }
+
+    &__field {
+        input {
+            border: none !important;
+            border-bottom: 1px solid #707070 !important;
+            font-style: normal;
+        }
+    }
+
+    &__textarea {
+        textarea {
+            width: 100%;
+            height: 100px;
+            filter: drop-shadow(0px 3px 3.5px rgba(0, 0, 0, 0.16));
+            border: 1px solid #e3e3e3;
+            font-style: normal;
+            margin-top: 20px;
+        }
+    }
+
+    &__success-desc {
+        max-width: 70%;
+        margin: 0 auto 80px;
+    }
+
+    &__ctas {
+        a {
+            display: block;
+            padding: 15px;
+            font-weight: bold;
+            color: black;
+            background-color: #9dbde6;
+            text-align: center;
+            border: 1px solid #b9b9b9;
+            &:not(:last-child) {
+                margin-bottom: 15px;
+            }            
+        }
+    }
+}
+
+.sidebar__form-form .sidebar__submit input {
+    background-color: #b70d0d !important;
+    border: 1px solid #707070 !important;
+    font-style: normal;
+    font-weight: bold;
+    padding: 10px 30px !important;
+    font-family: $segoeFont;
+}
+
+.form__recaptcha {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}

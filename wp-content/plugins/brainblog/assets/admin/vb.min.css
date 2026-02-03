@@ -1,0 +1,49 @@
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="brbl"]:hover,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="brbl"]:focus,
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="brbl"]:active {
+    background: rgba(29, 57, 215, 0.15) !important;
+    color: #333333 !important;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="brbl"] {
+    font-size: 11px;
+    color: #333333 !important;
+    background: rgba(29, 57, 215, 0.15) !important;
+    position: relative;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li[class^="brbl"]:before {
+    color: #fff;
+}
+
+.et-db
+    #et-boc
+    .et-l
+    .et-fb-modules-list
+    li[class^="brbl"]
+    .et-fb-icon.et-fb-icon--svg {
+    width: 16px !important;
+    min-width: 16px !important;
+    height: 22px !important;
+    margin: 2px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.et-db
+    #et-boc
+    .et-l
+    .et-fb-modules-list
+    li.brbl_post_carousel
+    .et-fb-icon.et-fb-icon--svg {
+    width: 24px !important;
+}
+
+.et-db
+    #et-boc
+    .et-l
+    .et-fb-modules-list
+    li.brbl_post_ticker
+    .et-fb-icon.et-fb-icon--svg {
+    width: 20px !important;
+}

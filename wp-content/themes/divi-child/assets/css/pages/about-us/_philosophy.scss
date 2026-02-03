@@ -1,0 +1,39 @@
+$philosophyBackground: #ececec ;
+$philosophyTextColor: #444 ;
+.about-us {
+    &__philosophy {
+        row-gap: 30px;
+        flex-direction: column;
+        @include desktop {
+            flex-direction: row;
+            column-gap: 30px;
+            align-items: flex-start;
+        }
+    }
+    &__philosophy-col {
+        width: 100%;
+    }
+    @include desktop {
+        &__philosophy__left {
+            width: 33.33%;
+        }
+        &__philosophy__right {
+            width: 66.66%;
+        }
+    }
+    &__philosophy__left {
+        li {
+            font-size: 14px !important;
+        }
+    }
+    &__philosophy-note {
+        background-color: $philosophyBackground;
+        color: $philosophyTextColor;
+        line-height: 1.6;
+        font-family: $sansProFont;
+        padding: 30px;
+        @include desktop {
+            padding: 40px;
+        }
+    }
+}

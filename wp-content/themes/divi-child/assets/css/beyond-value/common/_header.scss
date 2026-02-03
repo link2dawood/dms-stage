@@ -1,0 +1,114 @@
+.single-listing-meta-information {
+    h3 {
+        font-size: 1.563rem; //25px
+        color: $e-global-color-1;
+
+        @include tabletMd {
+            font-size: 1.875rem; //30px
+        }
+    }
+}
+
+.page-template-beyondvaluelisting {
+    .single-listing-meta-information h3 {
+        color: $e-global-color-2;
+
+        @include tabletMd {
+            color: $e-global-color-1;
+        }
+    }
+}
+
+.single-listing-meta-availability {
+    width: 100%;
+
+    >div {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    @include tabletMd {
+        width: auto;
+
+        >div {
+            width: auto;
+        }
+    }
+
+    h4 {
+        color: #393939;
+        font-size: 1.375rem;
+        margin-right: 30px;
+        font-family: $helveticaFont;
+        @include tabletMd {
+            font-size: 1.875rem;
+        }
+    }
+}
+
+.s-l-m-price {
+    @include tabletMd {
+        justify-content: flex-end;
+    }
+
+    h3 {
+        margin-right: 10px;
+    }
+
+    p {
+        font-size: 1.563rem;
+
+        @include tabletMd {
+            font-size: 1.688rem;
+        }
+    }
+}
+
+.single-listing-meta-cta {
+    span {
+        font-size: 1.375rem;
+
+        i {
+            color: $e-global-color-3;
+        }
+    }
+
+    span:first-child {
+        margin-right: 30px;
+    }
+}
+
+.s-l-m-a {
+    margin-top: 15px;
+
+    @include desktop {
+        margin-top: 0;
+    }
+}
+
+
+.single-listing-meta-information {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    border-bottom: 0;
+    @include tabletMd {
+        border-bottom: 1px solid $e-global-color-4;
+    }
+    @include desktop {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+.single-listing-meta-state {
+    flex-direction: column;
+    row-gap: 10px;
+    @include tabletMd {
+        flex-direction: row;
+        row-gap: unset;
+    }
+    @include desktop {
+        width: calc(60% + 50px) !important;
+    }
+}

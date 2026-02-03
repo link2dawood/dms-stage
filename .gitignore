@@ -1,0 +1,15 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Uploads & cache
+wp-content/uploads/
+wp-content/cache/
+
+# Sensitive files
+wp-config.php
+php_error_log
+
+# OS / junk
+.tmb/
+*.zip

@@ -1,0 +1,16 @@
+$coapplicantBtnBackground: #01386f ;
+.coapplicant {
+    margin-top: 20px;
+    line-height: 1.6;
+    &-link {
+        padding: 12px 30px;
+        background: $coapplicantBtnBackground;
+        font-size: 0.8rem;
+        @include desktop {
+            font-size: 1rem;
+        }
+        &:hover {
+            color: white;
+        }
+    }
+}

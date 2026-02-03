@@ -1,0 +1,42 @@
+.has-image-banner .image_column{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    @include tabletMd {
+        background-size: 100% 100%;
+        height: 275px;
+    }
+}
+.car-service-banner .et_pb_column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/car-service-banner.webp);
+}
+.car-service-banner .et_pb_module {
+    margin-top: 0 !important;
+}
+.detail-department-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/dgo-detail-center-banner-new.webp);   
+}
+.car-service-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/our-services-banner-new.webp);   
+}
+.trade-in-car-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/value-your-trade-banner-new.webp);   
+}
+.car-loans-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/online-credit-approval.webp);
+}
+.community-support-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/community-support-banner-new.webp);
+}
+.about-us-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/about-us-banner-new.webp);
+}
+.contact-us-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/contact-us-banner-new.webp);
+}
+.schedule-service-banner-column {
+    background-image: url(https://valueautosdurango.com/wp-content/themes/divi-child/assets/images/schedule-service-banner-new.webp);
+}
+.review-us-banner-column {
+    background-image: url(https://durangovalueautos.com/wp-content/themes/divi-child/assets/images/reviews.webp);
+}

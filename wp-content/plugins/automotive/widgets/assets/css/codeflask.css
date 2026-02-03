@@ -1,0 +1,117 @@
+.codeflask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: transparent !important;
+}
+
+.codeflask, .codeflask * {
+  box-sizing: border-box;
+}
+
+.codeflask__pre {
+  pointer-events: none;
+  z-index: 3;
+  overflow: hidden;
+}
+
+.codeflask__textarea {
+  background: none;
+  border: none;
+  color: #fff;
+  z-index: 1;
+  resize: none;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  -webkit-appearance: pre;
+  caret-color: #111;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+}
+
+.codeflask--has-line-numbers .codeflask__textarea {
+  width: calc(100% - 70px) !important;
+}
+
+.codeflask__code {
+  display: block;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  overflow: hidden;
+  background-color: transparent;
+  padding: 0;
+}
+
+.codeflask__flatten {
+  padding: 10px;
+  font-size: 13px;
+  line-height: 20px;
+  white-space: pre;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: auto;
+  margin: 0 !important;
+  outline: none;
+  text-align: left;
+  background-color: transparent !important;
+}
+
+textarea.codeflask__flatten {
+  background-color: #FFF !important;
+}
+
+.codeflask--has-line-numbers .codeflask__flatten {
+  width: calc(100% - 70px) !important;
+  left: 40px;
+}
+
+.codeflask__line-highlight {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 100%;
+  height: 20px;
+  background: rgba(0,0,0,0.1);
+  z-index: 1;
+}
+
+.codeflask__lines {
+  padding: 10px 4px;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: 'Cousine', monospace;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 27px;
+  height: 100%;
+  text-align: right;
+  color: #999;
+  z-index: 2;
+}
+
+.codeflask__lines__line {
+  display: block;
+}
+
+.codeflask.codeflask--has-line-numbers {
+  padding-left: 30px;
+}
+
+.codeflask.codeflask--has-line-numbers:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 30px;
+  height: 100%;
+  background: #eee;
+  z-index: 1;
+}
+
+.widget-html-field, .widget-html-field .codeflask {
+    height: 200px;
+    overflow: hidden;
+    max-height: 200px;
+}

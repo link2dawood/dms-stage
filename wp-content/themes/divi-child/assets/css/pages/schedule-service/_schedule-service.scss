@@ -1,0 +1,21 @@
+.schedule {
+    &-service-para {
+        font-weight: 400;
+    }
+    &-service-para-1 {
+        margin-bottom: 28px;
+        @include tabletMd {
+            margin-bottom: 48px;
+        }
+    }
+    &-service-para-2 {
+        margin-bottom: 36px;
+    }
+    &-service.iframe {
+        margin-top: 50px;
+    }
+    &-service iframe {
+        height: 600px;
+    }
+    
+}

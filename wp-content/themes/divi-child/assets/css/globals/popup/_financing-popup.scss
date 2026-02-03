@@ -1,0 +1,26 @@
+$submitBackground: #1f4a81 ;
+$submitPadding: 7px 30px ;
+$fieldsPadding: 7px 15px ;
+.apply-for-financing-content-wrapper {
+    width: 100%;
+    @include desktop {
+        max-width: 650px;
+    }
+}
+.form-meta-info {
+    width: 85%;
+    @include tabletMd {
+        width: 65%;
+    }
+}
+.aff-form {
+    margin-top: 15px;
+    &-field input{
+        padding: $fieldsPadding !important;
+    }
+}
+.aff-message-field textarea{
+    resize: none;
+    height: 150px ;
+    margin-bottom: 20px;
+}

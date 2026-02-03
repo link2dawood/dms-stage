@@ -1,0 +1,35 @@
+$selectedFilterColor: #707070;
+$selectedFilterBackground : #d9d9d9;
+$selectedFilterColor: #7d7d7d;
+$clearSelectedBorder: #7d7d7d; 
+$clearSelectedColor: #9f9f9f ;
+.inventory-products-bar__selected-filters {
+    flex: 1;
+}
+.inventory-products-bar {
+    &__selected-filter {
+        margin-right: 20px;
+        border-radius: 50px;
+        background: $selectedFilterBackground;
+        color: $selectedFilterColor;
+        padding: 4px 15px;
+        letter-spacing: 1px;
+        margin-bottom: 5px;
+    }
+    &__clear-selected-filters {
+        button {
+            border: 2px solid $clearSelectedBorder;
+            border-radius: 50px;
+            outline: none;
+            background: transparent;
+            padding: 2px 15px ;
+            color: $clearSelectedColor;
+            font-size: $fontSMMD;
+        }
+    }
+}
+.inventory {
+    &-selected-f-desktop {
+        margin-top: 30px;
+    }
+}

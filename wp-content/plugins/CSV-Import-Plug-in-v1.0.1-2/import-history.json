@@ -1,0 +1,182 @@
+[
+    {
+        "id": "697f40259c5ce",
+        "filename": "temp_1769947171_DMC-Ford_202601300800.csv",
+        "original_filename": "DMC-Ford_202601300800.csv",
+        "vehicle_count": 123,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 04:59:33"
+    },
+    {
+        "id": "697f40b8db042",
+        "filename": "temp_1769947318_DMC-Kia_202601300800.csv",
+        "original_filename": "DMC-Kia_202601300800.csv",
+        "vehicle_count": 96,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:02:00"
+    },
+    {
+        "id": "697f40c5f2ee3",
+        "filename": "temp_1769947332_DMC-Lincoln_202601300800.csv",
+        "original_filename": "DMC-Lincoln_202601300800.csv",
+        "vehicle_count": 10,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:02:13"
+    },
+    {
+        "id": "697f410013c3f",
+        "filename": "temp_1769947389_DMC-Used_202601300800.csv",
+        "original_filename": "DMC-Used_202601300800.csv",
+        "vehicle_count": 118,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:03:12"
+    },
+    {
+        "id": "697f411b62441",
+        "filename": "temp_1769947417_DurangoToyotaImages-2026-01-29-09.csv",
+        "original_filename": "DurangoToyotaImages-2026-01-29-09.csv",
+        "vehicle_count": 146,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:03:39"
+    },
+    {
+        "id": "697f417ae0077",
+        "filename": "temp_1769947512_DMC-Ford_202602010800.csv",
+        "original_filename": "DMC-Ford_202602010800.csv",
+        "vehicle_count": 120,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:05:14"
+    },
+    {
+        "id": "697f41858d19a",
+        "filename": "temp_1769947521_DMC-Kia_202602010800.csv",
+        "original_filename": "DMC-Kia_202602010800.csv",
+        "vehicle_count": 94,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:05:25"
+    },
+    {
+        "id": "697f418d6542a",
+        "filename": "temp_1769947532_DMC-Lincoln_202602010800.csv",
+        "original_filename": "DMC-Lincoln_202602010800.csv",
+        "vehicle_count": 8,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:05:33"
+    },
+    {
+        "id": "697f419902ede",
+        "filename": "temp_1769947541_DMC-Used_202602010800.csv",
+        "original_filename": "DMC-Used_202602010800.csv",
+        "vehicle_count": 109,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:05:45"
+    },
+    {
+        "id": "697f41ac2b5f0",
+        "filename": "temp_1769947560_DurangoToyotaImages-2026-01-31-09.csv",
+        "original_filename": "DurangoToyotaImages-2026-01-31-09.csv",
+        "vehicle_count": 140,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-01 05:06:04"
+    },
+    {
+        "id": "6980ad7d0b67e",
+        "filename": "temp_1770040698_DMC-Ford_202602020800.csv",
+        "original_filename": "DMC-Ford_202602020800.csv",
+        "vehicle_count": 116,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-02 06:58:21"
+    },
+    {
+        "id": "6980ad85880bd",
+        "filename": "temp_1770040707_DMC-Kia_202602020800.csv",
+        "original_filename": "DMC-Kia_202602020800.csv",
+        "vehicle_count": 90,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-02 06:58:29"
+    },
+    {
+        "id": "6980ad8f2f9fc",
+        "filename": "temp_1770040718_DMC-Lincoln_202602020800.csv",
+        "original_filename": "DMC-Lincoln_202602020800.csv",
+        "vehicle_count": 8,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-02 06:58:39"
+    },
+    {
+        "id": "6980ad9d73651",
+        "filename": "temp_1770040731_DMC-Used_202602020800.csv",
+        "original_filename": "DMC-Used_202602020800.csv",
+        "vehicle_count": 102,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-02 06:58:53"
+    },
+    {
+        "id": "6980adc83ec67",
+        "filename": "temp_1770040765_DurangoToyotaImages-2026-02-01-09.csv",
+        "original_filename": "DurangoToyotaImages-2026-02-01-09.csv",
+        "vehicle_count": 141,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-02 06:59:36"
+    },
+    {
+        "id": "698201628c9a4",
+        "filename": "temp_1770127712_DMC-Ford_202602030800.csv",
+        "original_filename": "DMC-Ford_202602030800.csv",
+        "vehicle_count": 116,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-03 07:08:34"
+    },
+    {
+        "id": "6982020815273",
+        "filename": "temp_1770127878_DMC-Kia_202602030800.csv",
+        "original_filename": "DMC-Kia_202602030800.csv",
+        "vehicle_count": 91,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-03 07:11:20"
+    },
+    {
+        "id": "698202156cff0",
+        "filename": "temp_1770127892_DMC-Lincoln_202602030800.csv",
+        "original_filename": "DMC-Lincoln_202602030800.csv",
+        "vehicle_count": 8,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-03 07:11:33"
+    },
+    {
+        "id": "69820222ab2ed",
+        "filename": "temp_1770127903_DMC-Used_202602030800.csv",
+        "original_filename": "DMC-Used_202602030800.csv",
+        "vehicle_count": 103,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-03 07:11:46"
+    },
+    {
+        "id": "6982022edd3e0",
+        "filename": "temp_1770127917_DurangoToyotaImages-2026-02-02-09.csv",
+        "original_filename": "DurangoToyotaImages-2026-02-02-09.csv",
+        "vehicle_count": 140,
+        "import_type": "upload",
+        "status": "success",
+        "date_time": "2026-02-03 07:11:58"
+    }
+]

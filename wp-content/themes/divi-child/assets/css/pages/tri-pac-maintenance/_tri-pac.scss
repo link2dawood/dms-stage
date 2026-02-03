@@ -1,0 +1,9 @@
+.tri-pac {
+    
+    &-module .et_pb_image_wrap{ 
+        width: 90%;
+        @include tabletMd {
+            width: 40%;
+        }
+    }
+}

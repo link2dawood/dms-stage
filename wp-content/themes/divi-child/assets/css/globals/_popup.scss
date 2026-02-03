@@ -1,0 +1,67 @@
+$popCloseBackground : #1f4a81;
+$closeBorderColor : #1f4a81;
+$closeIconColor: #1f4a81;
+$closeIconHoverColor: #1f4a81;
+$closeIconSize: 18px;
+$popupOverlayColor: #32323175;
+$popupZindex : 99990;
+$popupWrapperPadding: 20px 30px;
+
+.global_popup_wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 1600px;
+    left: 50%;
+    transform: translatex(-50%);
+    height: 100%;
+    z-index: $popupZindex;
+    background: $popupOverlayColor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+    &_overlay {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+
+    &_close {
+        top: 20px;
+        right: 30px;
+        width: 27px;
+        height: 27px;
+        border: 1px solid $closeBorderColor;
+
+        i {
+            color: $closeIconColor;
+            font-size: $closeIconSize;
+        }
+
+        &:hover {
+            background: $closeIconHoverColor;
+
+            i {
+                color: white;
+            }
+        }
+    }
+
+    &_content-wrapper {
+        z-index: 2;
+        position: relative;
+        background: $white;
+        padding: $popupWrapperPadding;
+        border-radius: 20px;
+        box-shadow: $secondaryShadow;
+        max-width: 1200px;
+        max-height: 90vh;
+    }
+    &_content-wrapper::-webkit-scrollbar {
+        display: none;
+    }
+}

@@ -1,0 +1,19 @@
+.service {
+    &-steps {
+        grid-template-columns: 1fr;
+        row-gap: 30px;
+        @include tabletMd {
+            grid-template-columns: repeat(4,1fr);
+            column-gap: 30px;
+            row-gap: unset;
+        }
+    }
+    &-step-counter {
+        color: rgb(128, 128, 128);
+        font-size: 22px;
+    }
+    &-step-heading{
+        font-size: 22px;
+        color: rgb(61, 63, 62);
+    }
+}

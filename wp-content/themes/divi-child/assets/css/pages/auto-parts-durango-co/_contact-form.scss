@@ -1,0 +1,13 @@
+.auto-parts-contact-form {
+    .et_contact_bottom_container {
+        display: flex;
+        float: unset;
+        width: 100%;
+        button[type=submit] {
+            width: 100%;
+            @include tabletMd {
+                width: 25%;
+            }
+        }
+    }
+}

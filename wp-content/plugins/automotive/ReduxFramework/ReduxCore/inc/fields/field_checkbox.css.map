@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "field_checkbox.css",
+	"sources": [
+		"checkbox/field_checkbox.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AACI,yBADqB,CACrB,KAAK,AAAC,CACF,cAAc,CAAE,GAAG,CACnB,KAAK,CAAE,IAAI,CAQd,AAXL,AAKQ,yBALiB,CACrB,KAAK,CAID,WAAW,AAAC,CACR,UAAU,CAAE,CAAC,CACb,KAAK,CAAE,IAAI,CACX,KAAK,CAAE,GAAG,CACV,KAAK,CAAE,IAAI,CACd"
+}
