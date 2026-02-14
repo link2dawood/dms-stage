@@ -1,5 +1,4 @@
 $(document).ready(function ($) {
-    let currentPagedValue = 2;
     var searchSortApplied = false;
     var priceApplied = false;
     var mileageApplied = false;
@@ -28,7 +27,6 @@ $(document).ready(function ($) {
     jQuery('.inventory-products-bar__layout-grid').on('click', function (event) {
         durango_toggle_inventory_view(event, 'grid')
     });
-
 
     /*
      *** Switch between grid and list view
@@ -501,6 +499,14 @@ $(document).ready(function ($) {
         }
     });
     $(document).on('click', '.all-pages', function (e) {
+        const currentPage = parseInt($('#vehicles-container').attr('data-current-page'), 10) || 1;
+        const maxPages = parseInt($('#vehicles-container').attr('data-max-pages'), 10) || 1;
+
+        if (currentPage >= maxPages) {
+            $(document).find('span.all-pages').removeClass('d-md-inline-block');
+            return;
+        }
+
         clickedShowMore = true;
         isScroll = true;
         searchSortApplied = false;
@@ -509,7 +515,7 @@ $(document).ready(function ($) {
         vConditionApplied = false;
 		checkPriceMileageFilterStatus();
 		sessionStorage.setItem('inline_banner_index', 0)
-        ajaxFilters(undefined, 6, Number(currentPagedValue) + 1, 'true');
+        ajaxFilters(undefined, 6, currentPage + 1, 'true');
     })
 
     $('.search-filters').keyup(function (e) {
@@ -809,7 +815,7 @@ $(document).ready(function ($) {
                         if (currentPage && currentPage !== NaN) {
                             ajaxFilters(undefined, 6, currentPage + 1, 'true');
                         } else {
-                            ajaxFilters(undefined, 6, 3, 'true');
+                            ajaxFilters(undefined, 6, 2, 'true');
                         }
                     } else {
                         // If user is at last page
@@ -1002,7 +1008,9 @@ function ajaxFilters(e, posts_per_page = 12, paged = 1, scroll = 'false') {
 		if (obj.maxPages !== null && obj.maxPages !== '') {
 			$('#vehicles-container').attr('data-max-pages', obj.maxPages)
 		}
-		if (obj.args.paged !== null && obj.args.paged !== '') {
+		if (obj.currentPage !== null && obj.currentPage !== '') {
+			$('#vehicles-container').attr('data-current-page', obj.currentPage)
+		} else if (obj.args.paged !== null && obj.args.paged !== '') {
 			$('#vehicles-container').attr('data-current-page', obj.args.paged)
 		}
 		
@@ -1020,6 +1028,16 @@ function ajaxFilters(e, posts_per_page = 12, paged = 1, scroll = 'false') {
 
         if (obj.foundposts) {
             $metaInfoText.text(obj.foundposts + ' ' + 'Vehicles Matching');
+        }
+
+        // Keep "Viewing X - Y of Z" accurate when "Show All" appends results.
+        if (obj.scroll === 'true') {
+            const totalVehicles = parseInt(obj.foundposts, 10) || 0;
+            const loadedVehicles = $('#vehicles-container .listing-card-wrapper')
+                .not('.inline-banner')
+                .length;
+            const viewingEnd = totalVehicles > 0 ? Math.min(loadedVehicles, totalVehicles) : loadedVehicles;
+            $(document).find('.postCounts').text(`Viewing 1 - ${viewingEnd} of ${totalVehicles}`);
         }
 
         if (obj.filter) {
@@ -1579,7 +1597,8 @@ name="listing_${key}[]" id="inventory-filter-${key}-checkbox_${option}" value="$
 		}
 
         if (response.maxPages) {
-            $vehiclesContainer.attr({ 'data-max-pages': response.maxPages, 'data-current-page': 2 });
+            const initialPage = parseInt(response.args?.paged, 10) || 1;
+            $vehiclesContainer.attr({ 'data-max-pages': response.maxPages, 'data-current-page': initialPage });
         }
         if (response.productCards) {
             $vehiclesContainer.html(response.productCards);

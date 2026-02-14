@@ -2607,3 +2607,221 @@ CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@
 CSVIPL: Subject: CSV Import Complete
 CSVIPL: Message: CSV import process completed successfully. Total listings 140 were imported on 2026-02-03 07:11:57 A...
 CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 116 were imported on 2026-02-04 07:59:27 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-02-04 07:59:36 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 105 were imported on 2026-02-04 08:00:08 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-04 08:01:18 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 141 were imported on 2026-02-04 08:01:32 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 113 were imported on 2026-02-05 07:53:38 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-02-05 07:53:56 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-05 07:54:12 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2026-02-05 07:54:34 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 140 were imported on 2026-02-05 07:54:44 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 113 were imported on 2026-02-06 07:58:56 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-02-06 07:59:07 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-06 08:00:16 AM....
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2026-02-07 08:28:47 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 91 were imported on 2026-02-07 08:29:06 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-07 08:29:34 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 113 were imported on 2026-02-07 08:29:46 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 135 were imported on 2026-02-07 08:30:01 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 112 were imported on 2026-02-10 08:25:25 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 87 were imported on 2026-02-10 08:25:55 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-10 08:26:08 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2026-02-10 08:26:20 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 145 were imported on 2026-02-10 08:26:33 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 109 were imported on 2026-02-11 08:05:36 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 85 were imported on 2026-02-11 08:05:49 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 8 were imported on 2026-02-11 08:06:00 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 107 were imported on 2026-02-11 08:06:15 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 143 were imported on 2026-02-11 08:06:42 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 108 were imported on 2026-02-12 08:04:28 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 84 were imported on 2026-02-12 08:04:43 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 9 were imported on 2026-02-12 08:05:02 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 106 were imported on 2026-02-12 08:05:16 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 216 were imported on 2026-02-12 08:05:41 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 111 were imported on 2026-02-13 08:16:03 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 83 were imported on 2026-02-13 08:18:05 AM...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 9 were imported on 2026-02-13 08:18:19 AM....
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 110 were imported on 2026-02-13 08:19:38 A...
+CSVIPL: Email sent successfully
+CSVIPL: Attempting to send email to: bernardo.monge@progreza.com, junaid.asghar@progreza.com, susana.bermudez@progreza.com
+CSVIPL: Subject: CSV Import Complete
+CSVIPL: Message: CSV import process completed successfully. Total listings 207 were imported on 2026-02-13 08:19:56 A...
+CSVIPL: Email sent successfully
+Starting listCSVFiles()
+Remote file: /public_html/latest-inventory.csv
+Local file path: /home/905721.cloudwaysapps.com/vnrruejbee/public_html/wp-content/Uploads/import-csv/latest-inventory.csv
+SFTP URL: sftp://45.77.6.66/public_html/latest-inventory.csv
+Starting cURL execution
+cURL Error: Authentication failure

@@ -98,6 +98,7 @@ add_action( 'wp_footer', 'dmc_footer_script' );
 function divi_child_include_extra_files() {
     require_once get_stylesheet_directory() . '/custom-templates/productCard.php';
 	require_once get_stylesheet_directory() . '/custom-templates/new-product-card.php';
+	// require_once get_stylesheet_directory() . '/custom-templates/kia-inventory.php';
     require_once get_stylesheet_directory() . '/custom-templates/vehicleDetails.php';
     require_once get_stylesheet_directory() . '/custom-templates/inventoryFilters.php';
     require_once get_stylesheet_directory() . '/custom-templates/breadcrumbs.php';
@@ -112,6 +113,8 @@ function divi_child_include_extra_files() {
     require_once 'template-parts/dropdown.php';
     require_once 'template-parts/testimonial-slider.php';
     require_once 'template-parts/featured_inventory.php';
+    require_once 'template-parts/kia_inventory.php';
+//  require_once 'custom-templates/kia-inventory.php';   
     require_once 'template-parts/car-services.php';
     require_once 'template-parts/browse-inventory.php';
     require_once 'template-parts/dgo-popup-slider.php';
@@ -708,20 +711,26 @@ function Get_Ajax_Filters_callback() {
     }
 	
 	$window_width 	= isset( $_POST['windowWidth'] ) ? intval( $_POST['windowWidth'] ) : 0;
-	$posts_per_page = 14;
+	$is_scroll_mode = isset($_POST['scroll']) && $_POST['scroll'] === 'true';
+	$requested_paged = isset($_POST['paged']) ? max(1, intval($_POST['paged'])) : 1;
+
+	$default_posts_per_page = 14;
 	if ( $window_width >= 1800 ) {
-		$posts_per_page = 18;
+		$default_posts_per_page = 18;
 	} elseif ( $window_width >= 990 && $window_width <= 1440 ) {
-		$posts_per_page = 16;
+		$default_posts_per_page = 16;
 	} else {
-		$posts_per_page = 14;
+		$default_posts_per_page = 14;
 	}
+
+	// For "Show All"/append mode, always load 6 cards per request.
+	$posts_per_page = $is_scroll_mode ? 6 : $default_posts_per_page;
 
     // Build query arguments
     $args = [
         'posts_per_page' => $posts_per_page,
         'post_type' => 'listings',
-        'paged' => $_POST['paged'] ?? 1,
+        'paged' => $requested_paged,
         'orderby' => [
             'meta_value' => $filters['path'] === 'used-vehicles-durango-colorado' ? 'ASC' : 'DESC',
             'date' => $filters['path'] === 'used-vehicles-durango-colorado' ? 'ASC' : 'DESC'
@@ -729,6 +738,12 @@ function Get_Ajax_Filters_callback() {
         'order' => $filters['path'] === 'used-vehicles-durango-colorado' ? 'ASC' : 'DESC',
         'meta_query' => ['relation' => 'AND'],
     ];
+
+	// Keep append results continuous after initial first page (14/16/18 cards).
+	if ($is_scroll_mode && $requested_paged >= 2) {
+		$args['offset'] = $default_posts_per_page + (($requested_paged - 2) * $posts_per_page);
+		$args['paged'] = 1;
+	}
 
     $filter_args = [
         'posts_per_page' => -1,
@@ -851,12 +866,18 @@ function Get_Ajax_Filters_callback() {
             $index++;
         }
 
-        // Generate pagination
+		$calculated_max_pages = $latestListings->max_num_pages;
+		if ($is_scroll_mode) {
+			$remaining = max(0, $latestListings->found_posts - $default_posts_per_page);
+			$calculated_max_pages = $remaining > 0 ? 1 + (int)ceil($remaining / $posts_per_page) : 1;
+		}
+
+        // Generate pagination using requested page/max page values
         $pagination_html = vehiclesPagination(
             $latestListings->found_posts,
-            $latestListings->post_count,
-            $latestListings->max_num_pages,
-            $latestListings->query_vars['paged'],
+            $latestListings->query_vars['posts_per_page'],
+            $calculated_max_pages,
+            $requested_paged,
             $filters['scroll']
         );
 
@@ -896,10 +917,10 @@ function Get_Ajax_Filters_callback() {
             'foundposts' => $postCount,
             'filter' => $filterhtml,
             'args' => $args,
-            'currentPage' => $filters['paged'] ?? 1,
+            'currentPage' => $requested_paged,
             'filterHTML' => generate_filter_values($filter_latest_listings, $filters['applied_filter'], $filters['path']),
             'noListingsBanner' => '',
-            'maxPages' => $latestListings->max_num_pages,
+            'maxPages' => $calculated_max_pages,
             'yearArr' => $filters['year'],
             'urlQuery' => $filters,
             'scroll' => $filters['scroll']
@@ -915,7 +936,7 @@ function Get_Ajax_Filters_callback() {
             'foundposts' => 12,
             'urlQuery' => $filters,
             'filterHTML' => generate_filter_values($filter_latest_listings, $filters['applied_filter'], $filters['path']),
-            'currentPage' => $filters['paged'] ?? 1,
+            'currentPage' => $requested_paged,
             'filter' => '',
             'args' => $args,
             'listingContent' => '',
@@ -1490,7 +1511,7 @@ function loadInventoryVehicles_callback() {
 			$index++;
         }
 
-        $pagination = vehiclesPagination($listing->found_posts, $listing->post_count, $listing->max_num_pages, $listing->query_vars['paged'], false);
+        $pagination = vehiclesPagination($listing->found_posts, $listing->query_vars['posts_per_page'], $listing->max_num_pages, $listing->query_vars['paged'], false);
         $postCount = postCount($listing->found_posts);
         wp_reset_postdata();
 
@@ -1620,7 +1641,7 @@ function dmc_inline_banners($index, &$productCards, $selectedBanners, $bannerPos
     $bannerAlt    = esc_attr($bannerImageData['alt'] ?? 'Inventory Banner');
 
     $productCards[] = '
-    <div class="col-12 col-lg-6 col-xl-4 col-xxl-3 mb-30">
+    <div class="col-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4 mb-30">
         <div class="position-relative bg-white listing-card-wrapper p-3 inline-banner d-flex align-items-center justify-content-center">
             <a href="'.$bannerLink.'" class="w-100 h-100 d-flex align-items-center justify-content-center">
                 <img src="'.$bannerImgUrl.'" 
@@ -1989,7 +2010,7 @@ function dmc_mobile_view_tabs() { ?>
 					</p>
 					<p class="">
 					<span class="working-day">saturday</span>
-					<span class="working-time">9:00 - 5:00 PM</span>
+					<span class="working-time">Closed</span>
 					</p>
 					<p class="">
 					<span class="working-day">sunday</span>
@@ -2025,7 +2046,7 @@ function dmc_mobile_view_tabs() { ?>
 					</p>
 					<p class="">
 						<span class="working-day">saturday</span>
-						<span class="working-time">8:00 - 5:00 PM</span>
+						<span class="working-time">Closed</span>
 					</p>
 					<p class="">
 						<span class="working-day">sunday</span>
@@ -2493,3 +2514,5 @@ $('.et_pb_column_1').css('width','100%');
 </script>
     <?php
 }
+
+

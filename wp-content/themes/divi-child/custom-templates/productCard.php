@@ -146,9 +146,7 @@ function productCard() {
             
             <div class="card-content-wrapper px-10 position-relative">
                 <?php if($isManagerSpecial): ?>
-                    <div class="managers-specials-badge">
-                        <span class="badge badge-danger rounded-0 p-2 border border-dark font-segoe text-capitalize font-sm">Manager Specials</span>
-                    </div>
+
                 <?php else: ?>
                     <div class="px-10 managers-specials-badge fake-managers-specials-badge"></div>
                 <?php endif; ?>
@@ -171,32 +169,32 @@ function productCard() {
                 <div class="d-flex align-items-start justify-content-between mb-30 vehicle-meta-wrapper">
                     <div class="w-100">
                         <div class="listview-visible d-none mb-3">
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-sm text-grey-3 mr-3">VIN: <?= $vin ?></span></a>
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-sm text-grey-3">Stock #: <?= $stock_number ?></span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-md text-grey-3 mr-3">VIN: <?= $vin ?></span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-md text-grey-3">Stock #: <?= $stock_number ?></span></a>
                         </div>
                         
                         <div class="d-flex align-items-center justify-content-between mb-2 listview-hidden">
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold">Stock #</span></a>
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold"><?= $stock_number ?></span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold">Stock #</span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold"><?= $stock_number ?></span></a>
                         </div>
                         
                         <div class="d-flex align-items-center justify-content-between mb-2">
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold">Mileage</span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold">Mileage</span></a>
                             <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style">
-								<span class="font-helvetica font-sm text-grey-3 font-weight-bold">
+								<span class="font-helvetica font-md text-grey-3 font-weight-bold">
 									<?= is_numeric($odometer = get_post_meta($post_id, 'odometer', true)) ? number_format($odometer) : 'N/A' ?>
 								</span>
 							</a>
                         </div>
                         
                         <div class="d-flex align-items-center justify-content-between mb-2">
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold">Certified</span></a>
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold"><?= get_post_meta($post_id, 'certified', true) ?></span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold">Certified</span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold"><?= get_post_meta($post_id, 'certified', true) ?></span></a>
                         </div>
                         
                         <div class="d-flex align-items-center justify-content-between" mb-2>
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold">Drivetrain</span></a>
-                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-sm text-grey-3 font-weight-bold"><?= get_post_meta($post_id, 'drivetrain', true) ?></span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold">Drivetrain</span></a>
+                            <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="no-style"><span class="font-helvetica font-md text-grey-3 font-weight-bold"><?= get_post_meta($post_id, 'drivetrain', true) ?></span></a>
                         </div>
                         
                     </div>
@@ -212,7 +210,7 @@ function productCard() {
 				<?php $exteriorColor = strtolower(trim(get_post_meta($post_id, 'exterior-color', true)));
 				// if( ! empty( $exteriorColor ) ) :
 				?>
-                <div class="vehicle-color-block mb-2 d-flex align-items-center justify-content-start text-grey-3 text-uppercase font-sm font-weight-light">
+                <div class="vehicle-color-block mb-2 d-flex align-items-center justify-content-start text-grey-3 text-uppercase font-md font-weight-light">
                     <div class="vehicle-color-ball d-flex align-items-center mr-2">
                         <?php
                         $exteriorColor = strtolower(trim(get_post_meta($post_id, 'exterior-color', true)));
@@ -425,15 +423,12 @@ function getColorValue($color) {
     return '';
 }
 
-function vehiclesPagination($foundPosts, $postCount, $maxPages, $currentPage, $scroll) {
+function vehiclesPagination($foundPosts, $postsPerPage, $maxPages, $currentPage, $scroll) {
     // Ensure $currentPage is at least 1
     $currentPage = max(1, intval($currentPage));
     
-    // Determine posts per page based on scroll
-    $postPerPage = ($scroll == 'true') ? 6 : 14;
-    
-    // Ensure $postPerPage is at least 1
-    $postPerPage = max(1, $postPerPage);
+    // Use the query page size sent by caller (matches WP_Query settings)
+    $postPerPage = max(1, intval($postsPerPage));
     
     // Calculate start and end indices
     $start_index = ($currentPage - 1) * $postPerPage + 1;

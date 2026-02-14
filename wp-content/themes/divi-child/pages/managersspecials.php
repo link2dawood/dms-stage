@@ -56,7 +56,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
                             $vehiclePrice = ($priceMeta && $priceMeta !== 'None') ? '$' . number_format((int)$priceMeta) : '<a href="tel:'. get_field('quick_call_phone_number', 'options') .'" class="quick-call-link"><i class="fa fa-phone"></i></a>';
 
                             $special = '<div class="col-12 col-sm-6 col-md-6 col-xl-3 px-10 mb-20">' .
-                                '<div class="manager-special-card position-relative h-100">'.
+                                '<div class="manager-special-card position-relative h-100 11">'.
                                 '<a href="' . get_the_permalink() . '" class="d-inline-block position-relative manager-special-thumbnail w-100">' .
                                 '<img src="' . $specialImage . '" alt="' . $alt_text . '" width="' . $image_width . '" height="' . $image_height . '" title="' . $alt_text . '" loading="lazy" class="img-fluid w-100 h-100 object_fit_cover" itemprop="image" />' .
                                 '<div class="position-absolute">' .
@@ -95,6 +95,3 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
     </div>
 </div>
 <?php get_footer(); ?>
-
-
-
