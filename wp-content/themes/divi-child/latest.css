@@ -143,15 +143,25 @@ footer .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-ri
     order: 1;
 }
 
-/* Hours/contact column styling */
+/* Hours/contact column styling - address, Service, Parts, Rentals stacked vertically */
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child {
     padding: 20px 0 20px 30px !important;
-    min-width: 1760px !important;
+    min-width: 280px !important;
+    max-width: 380px !important;
     display: flex !important;
-    flex-direction: row !important;
+    flex-direction: column !important;
+}
+.et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child > .et_pb_module {
+    width: 100% !important;
+    flex-shrink: 0 !important;
 }
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_text_inner h3 {
     margin-top: 0 !important;
+    margin-bottom: 5px !important;
+}
+.et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_text_inner p,
+.et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_text_inner div {
+    margin-bottom: 0 !important;
 }
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_divider {
     margin: 12px 0 !important;
