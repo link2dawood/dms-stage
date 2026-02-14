@@ -148,7 +148,7 @@ footer .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-ri
     padding: 20px 0 20px 30px !important;
     min-width: 1760px !important;
     display: flex !important;
-    flex-direction: column !important;
+    flex-direction: row !important;
 }
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_text_inner h3 {
     margin-top: 0 !important;
