@@ -9,6 +9,7 @@ function add_popup_modal(){
     
 if(is_page('new-vehicles-durango-colorado')
    || is_page('used-vehicles-durango-colorado')
+   || is_page('kia')
 || is_singular( 'listings' ) 
 || is_page('compare-vehicles')) { ?>
 

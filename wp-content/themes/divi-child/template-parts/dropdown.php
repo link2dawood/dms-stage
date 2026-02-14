@@ -67,7 +67,7 @@ function dmc_inventory_dropdown() {
     }
 
     // Define the order of makes
-    $make_order = ['ford', 'kia', 'toyota', 'lincoln'];
+    $make_order = ['ford', 'toyota', 'lincoln']; // kia excluded - has dedicated /kia/ page
 
     $ordered_makes = [];
     foreach ($make_order as $make) {
@@ -134,7 +134,7 @@ function dmc_inventory_dropdown() {
 
         // Optionally, display makes not in the make_order array
         foreach ($makes as $make => $make_data) {
-            if (!in_array($make, $make_order)) {
+            if (!in_array($make, $make_order) && $make !== 'kia') {
                 ?>
                 <a href="<?php echo esc_url(home_url('/new-vehicles-durango-colorado/?make%5b%5d=' . esc_attr($make))); ?>"
                    class="inventory-dropdown--make d-flex align-items-center justify-content-start"
@@ -207,7 +207,7 @@ function dmc_inventory_dropdown() {
 
             // Optionally, display models for makes not in the make_order array
             foreach ($makes as $make => $make_data) {
-                if (!in_array($make, $make_order) && !empty($make_data['models'])) {
+                if (!in_array($make, $make_order) && $make !== 'kia' && !empty($make_data['models'])) {
                     ?>
                     <div class="row inventory-dropdown--right-wrapper w-100 position-absolute"
                          data-make="<?php echo esc_attr(str_replace(' ', '-', $make)); ?>">

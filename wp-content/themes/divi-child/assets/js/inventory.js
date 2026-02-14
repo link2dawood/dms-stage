@@ -789,7 +789,7 @@ $(document).ready(function ($) {
         }
     });
 
-    if (window.location.pathname === '/used-vehicles-durango-colorado/' || window.location.pathname === '/new-vehicles-durango-colorado/') {
+    if (window.location.pathname === '/used-vehicles-durango-colorado/' || window.location.pathname === '/new-vehicles-durango-colorado/' || window.location.pathname === '/kia/') {
         $(window).on('scroll', function () {
             let container = $('#vehicles-container');
             let containerHeight = container.height();
@@ -1545,17 +1545,19 @@ name="listing_${key}[]" id="inventory-filter-${key}-checkbox_${option}" value="$
                 updateFilters(result.filters);
 				toggleLoadingState(false);
 				
-				// Populate search and sort values if exists
-				let queryURL = new URL(window.location.href);
-				let searchParam = queryURL.searchParams.get("search");
-				let sortParam 	= queryURL.searchParams.get('sort');
+				// Populate search and sort values from URL (Kia page: no params, keep empty)
+				if (window.location.pathname !== '/kia/') {
+					let queryURL = new URL(window.location.href);
+					let searchParam = queryURL.searchParams.get("search");
+					let sortParam 	= queryURL.searchParams.get('sort');
 
-				if (searchParam) {
-					$('.inventory-search-filters').val(searchParam)
-				}
-				
-				if( sortParam ) {
-					$('.dropdown-filters[data-type="sort-by"]').val(sortParam)
+					if (searchParam) {
+						$('.inventory-search-filters').val(searchParam)
+					}
+					
+					if( sortParam ) {
+						$('.dropdown-filters[data-type="sort-by"]').val(sortParam)
+					}
 				}
 
             },
