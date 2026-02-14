@@ -125,14 +125,21 @@
 }
 
 /* Hours section (content-right) - ensure it appears on the right */
-#custom-footer-mid-row.et_pb_row {
-    display: flex;
+#custom-footer-mid-row.et_pb_row,
+footer .et_pb_row:has(.et_pb_column.content-right),
+.et_pb_section .et_pb_row:has(.et_pb_column.content-right) {
+    display: flex !important;
+    flex-direction: row;
 }
-#custom-footer-mid-row .et_pb_column.content-right {
+#custom-footer-mid-row .et_pb_column.content-right,
+footer .et_pb_column.content-right,
+.et_pb_column.content-right {
     order: 2;
-    margin-left: auto;
+    margin-left: auto !important;
 }
-#custom-footer-mid-row .et_pb_column:not(.content-right) {
+#custom-footer-mid-row .et_pb_column:not(.content-right),
+footer .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-right),
+.et_pb_section .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-right) {
     order: 1;
 }
 
