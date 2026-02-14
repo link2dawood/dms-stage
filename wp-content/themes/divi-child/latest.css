@@ -124,6 +124,18 @@
     flex-grow: 1;
 }
 
+/* Hours section (content-right) - ensure it appears on the right */
+#custom-footer-mid-row.et_pb_row {
+    display: flex;
+}
+#custom-footer-mid-row .et_pb_column.content-right {
+    order: 2;
+    margin-left: auto;
+}
+#custom-footer-mid-row .et_pb_column:not(.content-right) {
+    order: 1;
+}
+
 /* header mobile responsive styling */
 .custom-mobile-visible {
     display: none
