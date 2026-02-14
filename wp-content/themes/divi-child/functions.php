@@ -54,6 +54,15 @@ function my_theme_enqueue_styles() {
     || is_page('kia') ) {
         wp_enqueue_script('inventory-js', get_stylesheet_directory_uri() . '/assets/js/inventory.js?unique='.time(), array('jquery', 'slickscript'), false, true);
         wp_localize_script('inventory-js', 'ajax_object', array('ajax_url' => admin_url('admin-ajax.php')));
+        $inventory_layout_css = '
+            body.page-used-vehicles-durango-colorado .entry-content .px-g,
+            body.page-new-vehicles-durango-colorado .entry-content .px-g,
+            body.page-kia .entry-content .px-g { max-width: 1760px; margin-left: auto; margin-right: auto; }
+            @media (min-width: 1200px) {
+                #vehicles-container > .col-12 { flex: 0 0 33.333333% !important; max-width: 33.333333% !important; }
+            }
+        ';
+        wp_add_inline_style('new-css-style', $inventory_layout_css);
     }
 	
 	if( is_singular('listings') ) {
