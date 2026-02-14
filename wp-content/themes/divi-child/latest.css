@@ -145,14 +145,14 @@ footer .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-ri
 
 /* Hours/contact column styling */
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child {
-    padding: 20px 0;
-    min-width: 280px;
+    padding: 20px 0 !important;
+    min-width: 280px !important;
 }
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_text_inner h3 {
-    margin-top: 0;
+    margin-top: 0 !important;
 }
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_divider {
-    margin: 12px 0;
+    margin: 12px 0 !important;
 }
 
 /* header mobile responsive styling */
