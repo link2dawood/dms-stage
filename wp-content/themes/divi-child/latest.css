@@ -143,6 +143,18 @@ footer .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-ri
     order: 1;
 }
 
+/* Hours/contact column styling */
+.et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child {
+    padding: 20px 0;
+    min-width: 280px;
+}
+.et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_text_inner h3 {
+    margin-top: 0;
+}
+.et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child .et_pb_divider {
+    margin: 12px 0;
+}
+
 /* header mobile responsive styling */
 .custom-mobile-visible {
     display: none
