@@ -146,8 +146,7 @@ footer .et_pb_row:has(.et_pb_column.content-right) .et_pb_column:not(.content-ri
 /* Hours/contact column styling */
 .et_pb_column.et_pb_column_1_4.et_pb_column_2.et-last-child {
     padding: 20px 0 20px 30px !important;
-    min-width: 300px !important;
-    max-width: 400px !important;
+    min-width: 1760px !important;
     display: flex !important;
     flex-direction: column !important;
 }
