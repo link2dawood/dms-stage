@@ -729,65 +729,65 @@ $(document).ready(function ($) {
         ajaxFilters(e, undefined, undefined)
     })
 
-    let windowResizeScale = false;
-    let windowResizeDown = false;
-    let initialWidth = window.innerWidth; // Store initial width
+//     let windowResizeScale = false;
+//     let windowResizeDown = false;
+//     let initialWidth = window.innerWidth; // Store initial width
 
-    $(window).on("resize", function (e) {
-        let currentWidth = window.innerWidth;
+//     $(window).on("resize", function (e) {
+//         let currentWidth = window.innerWidth;
 
-        if (currentWidth === initialWidth) return; // Prevent running on page load
+//         if (currentWidth === initialWidth) return; // Prevent running on page load
 
-        if (currentWidth >= 1800 && !windowResizeScale) {
-            clickedShowMore = false;
-            isScroll = false;
-            searchSortApplied = false;
-            priceApplied = false;
-            mileageApplied = false;
-            vConditionApplied = false;
-            windowResizeScale = true;
-            windowResizeDown = false;
-			checkPriceMileageFilterStatus();
-			sessionStorage.setItem('inline_banner_index', 0)
-            ajaxFilters(e, 12, undefined);
-        } else if (currentWidth <= 1799 && !windowResizeDown) {
-            clickedShowMore = false;
-            isScroll = false;
-            searchSortApplied = false;
-            priceApplied = false;
-            mileageApplied = false;
-            vConditionApplied = false;
-            windowResizeDown = true;
-            windowResizeScale = false;
-			checkPriceMileageFilterStatus();
-			sessionStorage.setItem('inline_banner_index', 0)
-            ajaxFilters(e, 12, undefined);
-        } else if (currentWidth >= 990 && !windowResizeScale) {
-            clickedShowMore = false;
-            isScroll = false;
-            searchSortApplied = false;
-            priceApplied = false;
-            mileageApplied = false;
-            vConditionApplied = false;
-            windowResizeDown = true;
-            windowResizeScale = false;
-			checkPriceMileageFilterStatus();
-			sessionStorage.setItem('inline_banner_index', 0)
-            ajaxFilters(e, 12, undefined);
-        } else if (currentWidth <= 989 && !windowResizeDown) {
-            clickedShowMore = false;
-            isScroll = false;
-            searchSortApplied = false;
-            priceApplied = false;
-            mileageApplied = false;
-            vConditionApplied = false;
-            windowResizeDown = true;
-            windowResizeScale = false;
-			checkPriceMileageFilterStatus();
-			sessionStorage.setItem('inline_banner_index', 0)
-            ajaxFilters(e, 12, undefined);
-        }
-    });
+//         if (currentWidth >= 1800 && !windowResizeScale) {
+//             clickedShowMore = false;
+//             isScroll = false;
+//             searchSortApplied = false;
+//             priceApplied = false;
+//             mileageApplied = false;
+//             vConditionApplied = false;
+//             windowResizeScale = true;
+//             windowResizeDown = false;
+// 			checkPriceMileageFilterStatus();
+// 			sessionStorage.setItem('inline_banner_index', 0)
+//             ajaxFilters(e, 12, undefined);
+//         } else if (currentWidth <= 1799 && !windowResizeDown) {
+//             clickedShowMore = false;
+//             isScroll = false;
+//             searchSortApplied = false;
+//             priceApplied = false;
+//             mileageApplied = false;
+//             vConditionApplied = false;
+//             windowResizeDown = true;
+//             windowResizeScale = false;
+// 			checkPriceMileageFilterStatus();
+// 			sessionStorage.setItem('inline_banner_index', 0)
+//             ajaxFilters(e, 12, undefined);
+//         } else if (currentWidth >= 990 && !windowResizeScale) {
+//             clickedShowMore = false;
+//             isScroll = false;
+//             searchSortApplied = false;
+//             priceApplied = false;
+//             mileageApplied = false;
+//             vConditionApplied = false;
+//             windowResizeDown = true;
+//             windowResizeScale = false;
+// 			checkPriceMileageFilterStatus();
+// 			sessionStorage.setItem('inline_banner_index', 0)
+//             ajaxFilters(e, 12, undefined);
+//         } else if (currentWidth <= 989 && !windowResizeDown) {
+//             clickedShowMore = false;
+//             isScroll = false;
+//             searchSortApplied = false;
+//             priceApplied = false;
+//             mileageApplied = false;
+//             vConditionApplied = false;
+//             windowResizeDown = true;
+//             windowResizeScale = false;
+// 			checkPriceMileageFilterStatus();
+// 			sessionStorage.setItem('inline_banner_index', 0)
+//             ajaxFilters(e, 12, undefined);
+//         }
+//     });
 
     if (window.location.pathname === '/used-vehicles-durango-colorado/' || window.location.pathname === '/new-vehicles-durango-colorado/' || window.location.pathname === '/kia/') {
         $(window).on('scroll', function () {
@@ -1761,7 +1761,8 @@ name="listing_${key}[]" id="inventory-filter-${key}-checkbox_${option}" value="$
 		checkImages(); // Initial check on page load
 	}
 
-	$(window).on('scroll resize', checkImages);
+// 	$(window).on('scroll resize', checkImages);
+	$(window).on('scroll', checkImages);
 	lazyLoadImages(); // Run on page load
 	
     function lazyLoadImagess() {

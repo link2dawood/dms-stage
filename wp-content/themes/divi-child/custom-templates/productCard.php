@@ -100,7 +100,7 @@ function productCard() {
 
     // Start building the card
     ?>
-    <div class="col-12 col-lg-6 col-xl-4 col-xxl-3 mb-30" data-window="<?= $windowEngageIcon ?>">
+    <div class="col-12 col-lg-6 col-xl-4 mb-30" data-window="<?= $windowEngageIcon ?>">
         <div class="position-relative mb-3 mb-md-0 bg-white listing-card-wrapper" data-permalink="<?= $permalink ?>">
             <div class="card-image-wrapper overflow-hidden">
                 

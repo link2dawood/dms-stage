@@ -721,14 +721,14 @@ function Get_Ajax_Filters_callback() {
 	$is_scroll_mode = isset($_POST['scroll']) && $_POST['scroll'] === 'true';
 	$requested_paged = isset($_POST['paged']) ? max(1, intval($_POST['paged'])) : 1;
 
-	$default_posts_per_page = 14;
-	if ( $window_width >= 1800 ) {
-		$default_posts_per_page = 18;
-	} elseif ( $window_width >= 990 && $window_width <= 1440 ) {
-		$default_posts_per_page = 16;
-	} else {
-		$default_posts_per_page = 14;
-	}
+// 	$default_posts_per_page = 14;
+// 	if ( $window_width >= 1800 ) {
+// 		$default_posts_per_page = 18;
+// 	} elseif ( $window_width >= 990 && $window_width <= 1440 ) {
+// 		$default_posts_per_page = 16;
+// 	} else {
+// 		$default_posts_per_page = 14;
+// 	}
 
 	// For "Show All"/append mode, always load 6 cards per request.
 	$posts_per_page = $is_scroll_mode ? 6 : $default_posts_per_page;
