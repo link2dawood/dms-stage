@@ -9,10 +9,17 @@ function get_unique_meta_values($meta_key, $valuesArray, $path = '') {
         ),
     );
 	
-	if( in_array($path, ['new-vehicles-durango-colorado', 'kia']) ) {
+	if( $path === 'new-vehicles-durango-colorado' ) {
 		$args['meta_query'][] = [
 			'key' => 'condition',
 			'value' => 'N',
+			'compare' => '='
+		];
+	}
+	if( in_array($path, ['used-vehicles-durango-colorado', 'kia']) ) {
+		$args['meta_query'][] = [
+			'key' => 'condition',
+			'value' => 'U',
 			'compare' => '='
 		];
 	}
@@ -20,13 +27,6 @@ function get_unique_meta_values($meta_key, $valuesArray, $path = '') {
 		$args['meta_query'][] = [
 			'key' => 'make',
 			'value' => 'Kia',
-			'compare' => '='
-		];
-	}
-	if( $path === 'used-vehicles-durango-colorado' ) {
-		$args['meta_query'][] = [
-			'key' => 'condition',
-			'value' => 'U',
 			'compare' => '='
 		];
 	}
@@ -337,7 +337,7 @@ function get_unique_meta_values($meta_key, $valuesArray, $path = '') {
         $args['meta_query'][] = $data;
     }
 	
-	if( in_array($path, ['new-vehicles-durango-colorado', 'kia']) ) {
+	if( $path === 'new-vehicles-durango-colorado' ) {
 		if( !empty($valuesArray['price']) && is_array($valuesArray['price']) ) {
 			if( count($valuesArray['price']) === 1 ) {
 				$minprice = min($valuesArray['price']);
@@ -359,7 +359,7 @@ function get_unique_meta_values($meta_key, $valuesArray, $path = '') {
 			}
 			$args['meta_query'][] = $data;
 		}	
-	} else if( $path === 'used-vehicles-durango-colorado' ) {
+	} else if( in_array($path, ['used-vehicles-durango-colorado', 'kia']) ) {
 		if( !empty($valuesArray['price']) && is_array($valuesArray['price']) ) {
 			if( count($valuesArray['price']) === 1 ) {
 				$minprice = min($valuesArray['price']);

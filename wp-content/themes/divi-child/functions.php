@@ -269,7 +269,7 @@ function apply_filters_to_query(&$args, &$filterArgs, $filters, $path) {
         'certified' => ['key' => 'certified', 'compare' => 'IN'],
         'certificationArr' => ['key' => 'certification', 'compare' => 'IN'],
         'fuel-type' => ['key' => 'fuel-type', 'compare' => 'IN'],
-'price' => in_array($path, ['new-vehicles-durango-colorado', 'kia']) ? ['key' => 'miscprice-1', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'] : ['key' => 'original_price', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'],
+'price' => $path === "new-vehicles-durango-colorado" ? ['key' => 'miscprice-1', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'] : ['key' => 'original_price', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'],
 		'features'	=> ['key' => 'features', 'compare' => 'IN'],
 		'engine'	=> ['key' => 'engine', 'compare' => 'IN']
     ];
@@ -420,7 +420,7 @@ function apply_filters_to_query(&$args, &$filterArgs, $filters, $path) {
     }
 	
 	// Handle price range filter
-	if( in_array($path, ['new-vehicles-durango-colorado', 'kia']) ) {
+	if( $path === 'new-vehicles-durango-colorado' ) {
 	if (!empty($filters['price'])) {
 		$price_value = (array) $filters['price'];
 		if (count($price_value) === 2) {
@@ -520,19 +520,19 @@ function apply_filters_to_query(&$args, &$filterArgs, $filters, $path) {
 	if (!empty($filters['sort'])) {
 		$value = $filters['sort'];
 
-		if ($value === 'low-to-high' && in_array($path, ['new-vehicles-durango-colorado', 'kia'])) {
+		if ($value === 'low-to-high' && $path === 'new-vehicles-durango-colorado') {
 			$args['meta_key'] = 'miscprice-1';
 			$args['orderby'] = 'meta_value_num';
 			$args['order'] = 'ASC';
-		} elseif($value === 'low-to-high' && $path === 'used-vehicles-durango-colorado') {
+		} elseif($value === 'low-to-high' && in_array($path, ['used-vehicles-durango-colorado', 'kia'])) {
 			$args['meta_key'] = 'original_price';
 			$args['orderby'] = 'meta_value_num';
 			$args['order'] = 'ASC';
-		} elseif ($value === 'high-to-low' && in_array($path, ['new-vehicles-durango-colorado', 'kia'])) {
+		} elseif ($value === 'high-to-low' && $path === 'new-vehicles-durango-colorado') {
 			$args['meta_key'] = 'miscprice-1';
 			$args['orderby'] = 'meta_value_num';
 			$args['order'] = 'DESC';
-		} elseif( $value === 'high-to-low' && $path === 'used-vehicles-durango-colorado' ) {
+		} elseif( $value === 'high-to-low' && in_array($path, ['used-vehicles-durango-colorado', 'kia']) ) {
 			$args['meta_key'] = 'original_price';
 			$args['orderby'] = 'meta_value_num';
 			$args['order'] = 'DESC';
@@ -581,13 +581,13 @@ function apply_filters_to_query(&$args, &$filterArgs, $filters, $path) {
 // Generate filter values
 function generate_filter_values($query, $applied_filter = '', $path) {
     $filterValues = [];
-	if( $path === 'used-vehicles-durango-colorado' ) {
+	if( in_array($path, ['used-vehicles-durango-colorado', 'kia']) ) {
 		$meta_keys = [
 			'year', 'make', 'model', 'body-style', 'type-of-vehicle', 'doors', 'cylinders',
 			'drivetrain', 'transmission', 'certified', 'fuel-type', 'exterior-color', 'interior-color',
 			'odometer', 'original_price', 'condition', 'series', 'engine', 'features', 'series'
 		];	
-	} elseif( in_array($path, ['new-vehicles-durango-colorado', 'kia']) ) {
+	} elseif( $path === 'new-vehicles-durango-colorado' ) {
 		$meta_keys = [
 			'year', 'make', 'model', 'body-style', 'type-of-vehicle', 'doors', 'cylinders',
 			'drivetrain', 'transmission', 'certified', 'fuel-type', 'exterior-color', 'interior-color',
@@ -711,10 +711,10 @@ function Get_Ajax_Filters_callback() {
         wp_send_json_error('Path cannot be empty');
     }
 
-    // Kia page: force make=Kia and condition=new (no URL params)
+    // Kia page: force make=Kia and condition=pre-owned (no URL params, used vehicles design)
     if ($filters['path'] === 'kia') {
         $filters['make'] = ['Kia'];
-        $filters['vehicleCondition'] = 'new';
+        $filters['vehicleCondition'] = 'pre-owned';
     }
 	
 	$window_width 	= isset( $_POST['windowWidth'] ) ? intval( $_POST['windowWidth'] ) : 0;
@@ -739,10 +739,10 @@ function Get_Ajax_Filters_callback() {
         'post_type' => 'listings',
         'paged' => $requested_paged,
         'orderby' => [
-            'meta_value' => in_array($filters['path'], ['used-vehicles-durango-colorado']) ? 'ASC' : 'DESC',
-            'date' => in_array($filters['path'], ['used-vehicles-durango-colorado']) ? 'ASC' : 'DESC'
+            'meta_value' => in_array($filters['path'], ['used-vehicles-durango-colorado', 'kia']) ? 'ASC' : 'DESC',
+            'date' => in_array($filters['path'], ['used-vehicles-durango-colorado', 'kia']) ? 'ASC' : 'DESC'
         ],
-        'order' => in_array($filters['path'], ['used-vehicles-durango-colorado']) ? 'ASC' : 'DESC',
+        'order' => in_array($filters['path'], ['used-vehicles-durango-colorado', 'kia']) ? 'ASC' : 'DESC',
         'meta_query' => ['relation' => 'AND'],
     ];
 
@@ -786,16 +786,14 @@ function Get_Ajax_Filters_callback() {
 
         if (!empty($acf_banners) && is_array($acf_banners)) {
             foreach ($acf_banners as $banner) {
-                // Optional "show_on" filter
+                $show_on = isset($banner['show_on']) ? $banner['show_on'] : '';
                 if ($show_on === 'both' ||
-					($show_on === 'new_inventory' && in_array($filters['path'], ['new-vehicles-durango-colorado', 'kia'])) ||
-					($show_on === 'used_inventory' && $filters['path'] === 'used-vehicles-durango-colorado') ||
+					($show_on === 'new_inventory' && $filters['path'] === 'new-vehicles-durango-colorado') ||
+					($show_on === 'used_inventory' && in_array($filters['path'], ['used-vehicles-durango-colorado', 'kia'])) ||
 					empty($show_on)
 				) {
 					$filtered_banners[] = $banner;
 				}
-
-
             }
         }
 
@@ -863,9 +861,9 @@ function Get_Ajax_Filters_callback() {
         $listingCards = [];
         while ($latestListings->have_posts()) {
             $latestListings->the_post();
-            if (in_array($filters['path'], ['new-vehicles-durango-colorado', 'kia'])) {
+            if ($filters['path'] === 'new-vehicles-durango-colorado') {
                 $listingCards[] = dmc_new_inventory_card();
-            } else if ($filters['path'] === 'used-vehicles-durango-colorado') {
+            } else if (in_array($filters['path'], ['used-vehicles-durango-colorado', 'kia'])) {
                 $listingCards[] = productCard();
             }
             $vehicleMake = get_post_meta(get_the_ID(), 'make', true);
@@ -1067,11 +1065,11 @@ function apply_filters_based_on_values($args, $valuesArray, $pathname) {
         'fuel-type' => ['key' => 'fuel-type', 'compare' => 'IN'],
         'exterior-color' => ['key' => 'exterior-color', 'compare' => 'LIKE'],
         'interior-color' => ['key' => 'interior-color', 'compare' => 'LIKE'],
-        'price' => in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ? ['key' => 'miscprice-1', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'] : ['key' => 'original_price', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'],
+        'price' => $pathname === 'new-vehicles-durango-colorado' ? ['key' => 'miscprice-1', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'] : ['key' => 'original_price', 'compare' => 'BETWEEN', 'type' => 'NUMERIC'],
 		'engine' => ['key' => 'engine', 'compare' => 'IN'],
     ];
 	
-	if( in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ) {
+	if( $pathname === 'new-vehicles-durango-colorado' ) {
 		if( ! empty( $valuesArray['price'] ) && is_array( $valuesArray['price'] ) ) {
 			if( count( $valuesArray['price'] ) === 1 ) {
 				$minPrice = min( $valuesArray['price'] );
@@ -1105,7 +1103,7 @@ function apply_filters_based_on_values($args, $valuesArray, $pathname) {
 		}	
 	}
 	
-	if( $pathname === 'used-vehicles-durango-colorado' ) {
+	if( in_array($pathname, ['used-vehicles-durango-colorado', 'kia']) ) {
 		if( ! empty( $valuesArray['price'] ) && is_array( $valuesArray['price'] ) ) {
 			if( count( $valuesArray['price'] ) === 1 ) {
 				$minPrice = min( $valuesArray['price'] );
@@ -1210,19 +1208,19 @@ function apply_filters_based_on_values($args, $valuesArray, $pathname) {
 	}
 	
 	if( isset( $valuesArray['sort'] ) && !empty($valuesArray['sort']) ) {
-        if($valuesArray['sort'] == 'low-to-high' && $pathname === 'used-vehicles-durango-colorado'){
+        if($valuesArray['sort'] == 'low-to-high' && in_array($pathname, ['used-vehicles-durango-colorado', 'kia'])){
             $args['meta_key'] = 'original_price';
             $args['orderby'] = 'meta_value_num';
             $args['order'] = 'ASC';
-        } elseif ($valuesArray['sort'] == 'low-to-high' && in_array($pathname, ['new-vehicles-durango-colorado', 'kia'])){
+        } elseif ($valuesArray['sort'] == 'low-to-high' && $pathname === 'new-vehicles-durango-colorado'){
             $args['meta_key'] = 'miscprice-1';
             $args['orderby'] = 'meta_value_num';
             $args['order'] = 'ASC';
-        } else if($valuesArray['sort'] == 'high-to-low' && $pathname === 'used-vehicles-durango-colorado'){
+        } else if($valuesArray['sort'] == 'high-to-low' && in_array($pathname, ['used-vehicles-durango-colorado', 'kia'])){
             $args['meta_key'] = 'original_price';
             $args['orderby'] = 'meta_value_num';
             $args['order'] = 'DESC';
-        } else if($valuesArray['sort'] == 'high-to-low' && in_array($pathname, ['new-vehicles-durango-colorado', 'kia'])){
+        } else if($valuesArray['sort'] == 'high-to-low' && $pathname === 'new-vehicles-durango-colorado'){
             $args['meta_key'] = 'miscprice-1';
             $args['orderby'] = 'meta_value_num';
             $args['order'] = 'DESC';
@@ -1351,7 +1349,7 @@ function generate_filter_array($valuesArray, $pathname) {
         'fuel-type' => print_checkbox_filters('fuel-type', 'fuel-type', 'fuel-type', $valuesArray, $pathname),
         'exterior-color' => print_color_filters('exterior-color', 'exterior-color', $valuesArray, $pathname),
         'interior-color' => print_color_filters('interior-color', 'interior-color', $valuesArray, $pathname),
-        'price' => in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ? print_range_filters('miscprice-1', 'price', 'price', $valuesArray, $pathname) : print_range_filters('original_price', 'price', 'price', $valuesArray, $pathname),
+        'price' => $pathname === 'new-vehicles-durango-colorado' ? print_range_filters('miscprice-1', 'price', 'price', $valuesArray, $pathname) : print_range_filters('original_price', 'price', 'price', $valuesArray, $pathname),
         'mileage' => print_range_filters('odometer', 'mileage', 'mileage', $valuesArray, $pathname),
     ];
 
@@ -1398,11 +1396,11 @@ function loadInventoryVehicles_callback() {
 	
 	$posts_per_page = 14;
 	if ( $window_width >= 1800 ) {
-		$posts_per_page = in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ? 18 : 18;
+		$posts_per_page = $pathname === 'new-vehicles-durango-colorado' ? 18 : 18;
 	} elseif ( $window_width >= 990 && $window_width <= 1399 ) {
-		$posts_per_page = in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ? 16 : 16;
+		$posts_per_page = $pathname === 'new-vehicles-durango-colorado' ? 16 : 16;
 	} else {
-		$posts_per_page = in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ? 14 : 14;
+		$posts_per_page = $pathname === 'new-vehicles-durango-colorado' ? 14 : 14;
 	}
 	
 	if( empty( $pathname ) ) wp_send_json_error('Pathname cannot be empty');
@@ -1421,14 +1419,14 @@ function loadInventoryVehicles_callback() {
 	
 	$valuesArray		= process_url_parameters( $url );
 	
-    if (in_array($pathname, ['new-vehicles-durango-colorado', 'kia'])) {
+    if ($pathname === 'new-vehicles-durango-colorado') {
         $args['meta_query'][] = ['key' => 'condition', 'value' => 'N', 'compare' => '='];
+    }
+    if (in_array($pathname, ['used-vehicles-durango-colorado', 'kia'])) {
+        $args['meta_query'][] = ['key' => 'condition', 'value' => 'U', 'compare' => '='];
     }
     if ($pathname === 'kia') {
         $args['meta_query'][] = ['key' => 'make', 'value' => 'Kia', 'compare' => '='];
-    }
-    if ($pathname === 'used-vehicles-durango-colorado') {
-        $args['meta_query'][] = ['key' => 'condition', 'value' => 'U', 'compare' => '='];
     }
 	
 	$args = apply_filters_based_on_values($args, $valuesArray, $pathname);
@@ -1458,8 +1456,8 @@ function loadInventoryVehicles_callback() {
 			if (!empty($banner['show_on'])) {
 				if (
 					$banner['show_on'] === 'both' ||
-					($banner['show_on'] === 'new_inventory' && in_array($pathname, ['new-vehicles-durango-colorado', 'kia'])) ||
-					($banner['show_on'] === 'used_inventory' && $pathname === 'used-vehicles-durango-colorado')
+					($banner['show_on'] === 'new_inventory' && $pathname === 'new-vehicles-durango-colorado') ||
+					($banner['show_on'] === 'used_inventory' && in_array($pathname, ['used-vehicles-durango-colorado', 'kia']))
 				) {
 					$filtered_banners[] = $banner;
 				}
@@ -1514,7 +1512,7 @@ function loadInventoryVehicles_callback() {
 		
         while ($listing->have_posts()) {
             $listing->the_post();
-            $productCard = in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ? dmc_new_inventory_card() : productCard();
+            $productCard = $pathname === 'new-vehicles-durango-colorado' ? dmc_new_inventory_card() : productCard();
             $productCards[] = $productCard;
 			$vehicleMake = get_post_meta( get_the_ID(), 'make', true );
 			

@@ -143,10 +143,17 @@ function dmc_load_inventory_vehicles_callback() {
     /**
      * Load vehicles according to the current page
      */
-    if( in_array($pathname, ['new-vehicles-durango-colorado', 'kia']) ) {
+    if( $pathname === 'new-vehicles-durango-colorado' ) {
 		$args['meta_query'][] = [
 			'key' => 'condition',
 			'value' => 'N',
+			'compare' => '='
+		];
+	}
+	if( in_array($pathname, ['used-vehicles-durango-colorado', 'kia']) ) {
+		$args['meta_query'][] = [
+			'key' => 'condition',
+			'value' => 'U',
 			'compare' => '='
 		];
 	}
@@ -157,13 +164,6 @@ function dmc_load_inventory_vehicles_callback() {
 			'compare' => '='
 		];
 	}
-	if( $pathname === 'used-vehicles-durango-colorado' ) {
-		$args['meta_query'][] = [
-			'key' => 'condition',
-			'value' => 'U',
-			'compare' => '='
-		];
-	}    
 
 	if( $pathname === 'new-vehicles-durango-colorado'
 	  && $valuesArray['condition'] === 'new' ) {
